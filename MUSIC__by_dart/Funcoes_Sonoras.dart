@@ -4,7 +4,7 @@ void main() {
   print(funcao_DOMINATE.toString());
 }
 
-class Funcoes_Graus {
+class Funcoes_Sonoras_Graus {
   List<String> possiveis = [
     "Tonica_1",
     "SubDOMINATE_4",
@@ -23,7 +23,7 @@ class Funcoes_Graus {
   String se_for_evoluir;
   String se_for_parar;
 
-  Funcoes_Graus({
+  Funcoes_Sonoras_Graus({
     required this.nome,
     required this.grau,
     required this.relativo_menor,
@@ -36,7 +36,7 @@ class Funcoes_Graus {
   @override
   String toString() {
     return '''
-Funcoes_Graus: {
+Funcoes_Sonoras_Graus: {
   nome: ${nome},
   grau: ${grau},
   relativo_menor: ${relativo_menor},
@@ -56,7 +56,7 @@ Funcoes_Graus: {
 }
 
 // instancias
-Funcoes_Graus funcao_TONICA = Funcoes_Graus(
+Funcoes_Sonoras_Graus funcao_TONICA = Funcoes_Sonoras_Graus(
   nome: "funcao_TONICA",
   grau: "I - Primeiro_Grau",
   relativo_menor: "VI - 6_menor",
@@ -66,7 +66,7 @@ Funcoes_Graus funcao_TONICA = Funcoes_Graus(
   se_for_parar: "resolve com tonica ex: [ 1, ]",
 );
 
-Funcoes_Graus funcao_SubDOMINATE = Funcoes_Graus(
+Funcoes_Sonoras_Graus funcao_SubDOMINATE = Funcoes_Sonoras_Graus(
   nome: "funcao_SubDOMINATE",
   grau: "IV - Quarto_Grau",
   relativo_menor: "II - 2_menor",
@@ -77,7 +77,7 @@ Funcoes_Graus funcao_SubDOMINATE = Funcoes_Graus(
   se_for_parar: "",
 );
 
-Funcoes_Graus funcao_DOMINATE = Funcoes_Graus(
+Funcoes_Sonoras_Graus funcao_DOMINATE = Funcoes_Sonoras_Graus(
   nome: "funcao_DOMINATE",
   grau: "V - Quinto_Grau",
   relativo_menor:

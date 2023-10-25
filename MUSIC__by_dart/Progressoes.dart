@@ -1,6 +1,12 @@
 void main() {
   print(um_quatro_cinco_145.toString());
   print(um_cinco_seis_quatro_1564.toString());
+  print(um_seis_quatro_cinco_1645.toString());
+  print(um_quatro_cinco_quatro_1454.toString());
+  print(seis_quatro_um_cinco_6415.toString());
+  print(dois_cinco_um_251.toString());
+  print(um_quatro_cinco_alterne_anterior_145__14154.toString());
+  print(cinco_quatro_um_541.toString());
 }
 
 class Progressao {
@@ -42,22 +48,6 @@ Progressao: {
 }
 
 // instancias
-Progressao modelo = Progressao(
-  nome: "",
-  romano: "",
-  notas: "",
-  ritmos: [
-    "",
-    "",
-  ],
-  versos: ["", ""],
-  dinamica: "",
-  detalhes: "",
-  exemplos: [
-    "",
-    "",
-  ],
-);
 
 Progressao um_quatro_cinco_145 = Progressao(
   nome: "um_quatro_cinco_145",
@@ -99,3 +89,120 @@ Progressao um_cinco_seis_quatro_1564 = Progressao(
     "E - vim pra adorar o meu Deus",
   ],
 );
+
+Progressao um_seis_quatro_cinco_1645 = Progressao(
+  nome: "um_seis_quatro_cinco_1645",
+  romano: "I vi IV V",
+  notas: "C am F G",
+  ritmos: [
+    "",
+    "",
+  ],
+  versos: ["", ""],
+  dinamica: "",
+  detalhes: "",
+  exemplos: [
+    "STAND BY ME",
+    "BABY",
+    "ANOS 50, 60 ...",
+  ],
+);
+
+Progressao um_quatro_cinco_quatro_1454 = Progressao(
+  nome: "um_quatro_cinco_quatro_1454",
+  romano: "I IV V IV",
+  notas: "C F G F",
+  ritmos: [
+    "agito",
+    "alegre",
+  ],
+  versos: ["", ""],
+  dinamica: "",
+  detalhes: "",
+  exemplos: [
+    "LA BAMBA",
+    "TWIST AND SHOUT",
+  ],
+);
+
+Progressao seis_quatro_um_cinco_6415 = Progressao(
+  nome: "seis_quatro_um_cinco_6415",
+  romano: "vi IV I V",
+  notas: "am F C G",
+  ritmos: [
+    "",
+    "",
+  ],
+  versos: ["", ""],
+  dinamica: "Suspense",
+  detalhes: "",
+  exemplos: [
+    "HOLIDAY",
+    "ZOMBIE",
+  ],
+);
+
+Progressao dois_cinco_um_251 = Progressao(
+  nome: "dois_cinco_um_251",
+  romano: "ii V I",
+  notas: "dm G7 C7+",
+  ritmos: [
+    "jazz",
+    "balanco",
+  ],
+  versos: ["", ""],
+  dinamica: "",
+  detalhes: "aplicar com 7setimas, dar brilho",
+  exemplos: [
+    "Jazz em Geral",
+  ],
+);
+
+Progressao um_quatro_cinco_alterne_anterior_145__14154 = Progressao(
+  nome: "um_quatro_cinco_alterne_anterior_145__14154",
+  romano: "I IV V",
+  notas: "C F G -- alternando interior: 1 4 1 5 4 1 ",
+  ritmos: [
+    "blues",
+  ],
+  versos: ["", ""],
+  dinamica: "alegria",
+  detalhes: "fazer 4 vz cada nota",
+  exemplos: [
+    "Blues em geral",
+  ],
+);
+
+Progressao cinco_quatro_um_541 = Progressao(
+  nome: "cinco_quatro_um_541",
+  romano: "V IV I",
+  notas: "G F C",
+  ritmos: [
+    "refrao muita letra",
+    "",
+  ],
+  versos: ["", ""],
+  dinamica: "",
+  detalhes: "",
+  exemplos: [
+    "SWEET CHILD O MINE",
+    "CAN'T EXPLAIN",
+  ],
+);
+
+// Progressao modelo = Progressao(
+//   nome: "",
+//   romano: "",
+//   notas: "",
+//   ritmos: [
+//     "",
+//     "",
+//   ],
+//   versos: ["", ""],
+//   dinamica: "",
+//   detalhes: "",
+//   exemplos: [
+//     "",
+//     "",
+//   ],
+// );

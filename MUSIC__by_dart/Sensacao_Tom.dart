@@ -3,12 +3,12 @@ void main() {
   print(re_Maior.toString());
 }
 
-class Tom_Sensacao {
+class Sensacao_Tom {
   String nome;
   List<String> sensacoes;
   List<String> exemplos;
 
-  Tom_Sensacao({
+  Sensacao_Tom({
     required this.nome,
     required this.sensacoes,
     required this.exemplos,
@@ -17,7 +17,7 @@ class Tom_Sensacao {
   @override
   String toString() {
     return '''
-Tom_Sensacao: {
+Sensacao_Tom: {
   nome: ${nome},
   sensacoes: ${sensacoes},
   exemplos: ${exemplos},
@@ -27,12 +27,12 @@ Tom_Sensacao: {
 }
 
 // instancias
-Tom_Sensacao do_Maior = Tom_Sensacao(
+Sensacao_Tom do_Maior = Sensacao_Tom(
     nome: "do_Maior",
     sensacoes: ["conciencia", "suspense"],
     exemplos: ["Sera legiao Urbana"]);
 
-Tom_Sensacao re_Maior = Tom_Sensacao(
+Sensacao_Tom re_Maior = Sensacao_Tom(
     nome: "re_Maior",
     sensacoes: ["alegria", "dar algo"],
     exemplos: ["Te dei o ceu te dei o mar"]);

@@ -84,9 +84,13 @@ Progressao um_cinco_seis_quatro_1564 = Progressao(
     "NO WOMAN NO CRY - NAO CHORE MAIS",
     "LET IT BE",
     "I'M YOURS",
-    "C - Sera -> legiao",
-    "D - te dei o ceu te dei o mar meotoro da paixao",
-    "E - vim pra adorar o meu Deus",
+    "C - [ C G Am F ] [Sera -> legiao, ]",
+    "D - [ ] [te dei o ceu te dei o mar meotoro da paixao, ]",
+    "E - [ ] [vim pra adorar o meu Deus, ]",
+    "F - [ F C DM Bb ] [ Eu to apaixonado eu to contando tudo,]",
+    "G - [ G D Em C] [Como um zaqueu, ] ",
+    "A - [ A E F#m D] [Ele nao desiste de voce, ]"
+        "B - [ B F# G#m E ] [Mestre eu preciso de um milagre,]"
   ],
 );
 

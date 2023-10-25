@@ -85,8 +85,8 @@ Progressao um_cinco_seis_quatro_1564 = Progressao(
     "LET IT BE",
     "I'M YOURS",
     "C - [ C G Am F ] [Sera -> legiao, ]",
-    "D - [ ] [te dei o ceu te dei o mar meotoro da paixao, ]",
-    "E - [ ] [vim pra adorar o meu Deus, ]",
+    "D - [ D A Bm G ] [te dei o ceu te dei o mar meotoro da paixao, ]",
+    "E - [ E B C#m A] [vim pra adorar o meu Deus, ]",
     "F - [ F C DM Bb ] [ Eu to apaixonado eu to contando tudo,]",
     "G - [ G D Em C] [Como um zaqueu, ] ",
     "A - [ A E F#m D] [Ele nao desiste de voce, ]"

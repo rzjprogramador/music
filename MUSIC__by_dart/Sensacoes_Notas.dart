@@ -8,12 +8,14 @@ class Sensacoes_Notas {
   String duracao;
   String sentimento;
   List<String> expressoes;
+  List<String> voz;
 
   Sensacoes_Notas({
     required this.altura_nota,
     required this.duracao,
     required this.sentimento,
     required this.expressoes,
+    required this.voz,
   });
 
   @override
@@ -24,6 +26,7 @@ Sensacoes_Notas: {
   duracao: ${duracao},
   sentimento: ${sentimento},
   expressoes: ${expressoes},
+  voz: ${voz},
 }
 ''';
   }
@@ -34,7 +37,11 @@ Sensacoes_Notas altura_Maior = Sensacoes_Notas(
   altura_nota: "altura_Maior",
   duracao: "curto",
   sentimento: "alegre",
-  expressoes: ["Serio","Seco", "Firme"],
+  expressoes: ["Serio", "Seco", "Firme"],
+  voz: [
+    "Pra fora",
+    "voz direção do céu da boca",
+  ],
 );
 
 Sensacoes_Notas altura_Menor = Sensacoes_Notas(
@@ -45,5 +52,9 @@ Sensacoes_Notas altura_Menor = Sensacoes_Notas(
     "Gritinho pra Dentro",
     "Sofrido",
     "Sentido",
+  ],
+  voz: [
+    "Pra dentro",
+    "voz direcionada para o gogó pra dentro",
   ],
 );

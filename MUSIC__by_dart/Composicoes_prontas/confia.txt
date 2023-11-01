@@ -1,0 +1,49 @@
+
+---
+CONTATO NO SITE : www.sites.google.com/view/reinaldoreizao10
+redes : twitter instagram : @reizaomusic
+---
+•  #composicao : CONFIA
+• #compositor : @ReinaldoREIZAO
+• Tom : D
+• Data :  26/10/2023
+• Categorias: [ Romantica  ]
+---
+
+CONTA PRA MIM TEUS SEGREDOS
+QUE EU TENHO A TARDE TODA...
+NÃO FIQUE NA MAOS DOS OUTROS
+DEIXA DE SER BOBA...
+
+QUEM TE ENGANOU ... NÃO FOI EU
+QUEM TE MAGOOU ... SÓ PERDEU
+
+SEI QUE JA SOFREU DECEPÇÃO DEMAIS
+MAS COMIGO O GAME É TRANSPARENTE
+QUANDO A PESSOA É ESPECIAL
+O TRATAMENTO É DIFERENTE
+
+NAO VOU TE DECEPCIONAR ... CONFIA ..CONFIA
+PODEM ME TORTURAR ... CONFIA CONFIA
+
+QUE TÁ GUARDADO O TEU SEGREDO.
+
+---
+* Notas :
+Divisao: 2
+@Parte_A: [  D A bm G :naUltima -> D ] divisao(2), vezes(2)
+@Parte_B_VARIADA : [ bm G ] divisao(4), vezes(2)
+@Ponte:  [ bm A G  :naUltima -> D ] divisao(2), vezes(4)
+@Refrao:  [ D A G ] divisao(4), vezes(2)
+---
+
+********* Historia_Musica ***********
+@TEMA
+@SENTIMENTO: [  ] naoAlegre [ ] alegre
+@O_QUE_QUER_PASSAR_DA_HISTORIA :
+@CONCEITO_PARTE_A : []
+@CONCEITO_PARTE_B : []
+@CONCEITO_PONTE : []
+@CONCEITO_REFRAO : []
+@CONCEITO_FECHA_LETRA : []
+---

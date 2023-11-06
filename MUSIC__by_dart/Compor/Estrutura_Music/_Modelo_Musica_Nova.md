@@ -13,7 +13,7 @@ redes : twitter instagram : @ReizaoCompositor
 
 sinopse:
 @Estado:  [ ] alegre [  ] naoAlegre
-@Dica: "Primeiro defina o TEMA e deste tema defina o Sentimento_Central as acoes baseado no tema."
+@Dicas: ["Primeiro defina o Sentimento_Central e pergunte-se PORQUE ... AI ASSIM VOCE TERÁ O TEMA.", ]
 
 @Tema: {
   titulo: " ",

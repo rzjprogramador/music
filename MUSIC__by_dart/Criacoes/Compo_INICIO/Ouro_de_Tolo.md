@@ -13,11 +13,11 @@ redes : twitter instagram : @ReizaoCompositor
 
 sinopse:
 @Estado:  [ ] alegre [  ] naoAlegre
-@Dica: "Primeiro defina o TEMA e deste tema defina o Sentimento_Central as acoes baseado no tema."
+@Dicas: ["Primeiro defina o Sentimento_Central e pergunte-se PORQUE ... AI ASSIM VOCE TERÁ O TEMA.", ]
 
 @Tema: {
-  titulo: " ",
-  sentimento_Central : "Alguem que ... "
+  titulo: "DEUS SÓ QUER VOCE",
+  sentimento_Central : "Alguem que ...NAO DEVE SE PRENDER A BENS DESTA TERRA "
 }
 
 rimas : {
@@ -30,6 +30,36 @@ rimas : {
 }
 
 === MUSICA ======================
+
+AO OURO DESSA TERRA.
+NAO SE APEGA...
+... QUE FICA NESTA TERRA ...
+
+PARA O CEU NAO SOBE.
+TRIUNFOS DE GUERRAS ...
+... E NENHUMA MATÉRIA ...
+
+---
+
+SÓ A VERDADE E O AMOR DE DEUS... É ETERNO.
+QUEM PEDE A ELE NUNCA ESTA SÓ
+QUEM SEGUE COM ELE ESTA NO CAMINHO MELHOR
+
+SÓ ELE ABRE A PORTA DOS CEUS PARA NOS.
+
+-------
+
+TODO O OURO DO MUNDO ... É TOLO.
+VIVER EM CRISTO SIM ... QUE É GLORIOSO.
+
+O QUE ADIANTA DINHEIRO PODER...
+SE DEUS SÓ RECEBE VOCE
+
+FAÇA O BEM .. QUE A SALVAÇAO VEM
+TERAS O QUE BUSCAR
+
+
+================================
 
 --- @A1__AcontecimentoProblema [
   ( 1 ) VERSOS

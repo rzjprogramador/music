@@ -31,6 +31,10 @@ rimas : {
 
 === MUSICA ======================
 
+
+=================================
+
+
 --- @A1__AcontecimentoProblema [
   ( 1 ) VERSOS
   [ ] Na primeira frase Jogar o Sentimento central na cara do ouvinte para conectar ao Sentimentocentral,
@@ -56,11 +60,10 @@ rimas : {
 
 
 -----------------------------------------
---- @B__Baladin_Desabafao_do_Acontecido   [
+--- @B__Baladin_DESABAFAO_Minha_Verdade_o_que_acho_do_Acontecimento   [
 
   ( 1 ) VERSOS + DesabafoRima( 0 )
   [ ] Suspense que cria uma Crescente
-  [ ] Minha_Verdade_o_que_acho_do_Acontecimento
   [ ] Com_Notas_Menores,
   [ ] forma uma Espera_Grande_Por_Solucao_Do_Refrao
 

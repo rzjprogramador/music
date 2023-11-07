@@ -2,6 +2,7 @@
 # Musicas : POP : Com PARÇAS Prontas
 
 // modelo
+
 numero: , categorias: [ "", "", "",], ano: , titulo: "", compositores: "@ReinaldoREIZAO", status: "off", guiaVozViolaoMedia: false, guiaVozViolaoTOP: false,  guiaCompletaTOP: false, disponibilidade: "disponivel para negociar", estaraLiberadaEm: "", contratoComArtistas: [ { artista: '' , até: '' }, { artista: '' , até: '' }, { artista: '' , até: '' }, { artista: '' , até: '' }, { artista: '' , até: '' }, ]
 
 numero: 1, categorias: [ "pop_Dolente", "samba_Dolente", "",], ano: 2000, titulo: "Preciso de encontrar", compositores: "@ReinaldoREIZAO/SantiagoFerreira", status: "Apresentavel", guiaVozViolaoMedia: true, guiaVozViolaoTOP: true,  guiaCompletaTOP: true,  disponibilidade: "disponivel para negociar", estaraLiberadaEm: "", contratoComArtistas: [ { artista: '' , até: '' }, { artista: '' , até: '' }, { artista: '' , até: '' }, { artista: '' , até: '' }, { artista: '' , até: '' }, ]

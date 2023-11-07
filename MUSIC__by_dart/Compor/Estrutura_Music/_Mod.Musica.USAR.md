@@ -1,4 +1,4 @@
-
+# MODELO USAR
 -----------------------------------------
 CONTATO NO SITE : www.sites.google.com/view/reinaldoreizao10
 redes : twitter instagram : @ReizaoCompositor
@@ -6,11 +6,17 @@ redes : twitter instagram : @ReizaoCompositor
 #Musica :
 #Compositor : @ReinaldoREIZAO
 • Data :  -20
-• Categorias: [  ]
 
 -----------------------------------------
-===
 
+
+-----------------------------------------
+
+================================
+
+# CHECKLIST_COMPOSICAO
+-----------------------------------------
+===
 sinopse:
 @Estado:  [ ] alegre [  ] naoAlegre
 @Dicas: ["Primeiro defina o Sentimento_Central e pergunte-se PORQUE ... AI ASSIM VOCE TERÁ O TEMA.", ]
@@ -29,11 +35,8 @@ rimas : {
   rima_refrao : rima_central
 }
 
-=== MUSICA ======================
-
-
-=================================
-
+=============================
+# PARTE A ===================
 
 --- @A1__AcontecimentoProblema [
   ( 1 ) VERSOS
@@ -42,11 +45,7 @@ rimas : {
   [ ] Sem entregar a solucao final
 ]
 
-
-
 ---@@desabafoLanca_Rima(1)
-
-
 
 --- @A2 __O_Porque__ou_Resultado_do_AcontecimentoProblema [
   ( 1 ) VERSOS + DesabafoRima( 1 )
@@ -54,12 +53,11 @@ rimas : {
   [ ] explica o sentimento central para nao deixar viajem subjetivo duvidas
 ]
 
-
-
 ---@desabafo_FechaRimaLancada(1)
 
+=============================
+# PARTE B ===================
 
------------------------------------------
 --- @B__Baladin_DESABAFAO_Minha_Verdade_o_que_acho_do_Acontecimento   [
 
   ( 1 ) VERSOS + DesabafoRima( 0 )
@@ -77,7 +75,9 @@ rimas : {
 ]
 
 
------------------------------------------
+=============================
+# REFRAO ===================
+
 --- @REFRAO___SolucaoFinal : [
   ( 4 ) VERSOS + DesabafoRima( 0 )
   [ ] Verbo_CHAMADA( 1 braco_So, Nota_Menor ),
@@ -85,16 +85,17 @@ rimas : {
   [ ] Sacada_da_Solucao( Ludico, duploSentido, Viajem, Subjecao ),
 ]
 
------------------------------------------
+
+=============================
+# PARTE C? ===================
+
 --- @C?  [ Fecha a Letra,  Usar de Vez em quando ,  ]
 ( 1 ) VERSOS + DesabafoRima( 0 )
 
 
-
------------------------------------------
-
 ======================
 Snopse_Musical :
+@Categorias : [ ]
 
 * Harmonia :
     tom:
@@ -105,6 +106,4 @@ Snopse_Musical :
     parte: " ", notas: [  ], repete(), detalhe: "",
 
 =======================
-
-
 

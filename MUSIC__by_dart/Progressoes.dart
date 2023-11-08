@@ -35,7 +35,7 @@ class Progressao {
     return '''
 Progressao: {
   nome: ${nome},
-  romano: ${romano},
+  romdata: ""${romano},
   notas: ${notas},
   ritmos: ${ritmos},
   versos: ${versos},
@@ -51,7 +51,7 @@ Progressao: {
 
 Progressao um_quatro_cinco_145 = Progressao(
   nome: "um_quatro_cinco_145",
-  romano: "I IV V",
+  romdata: """I IV V",
   notas: "C F G",
   ritmos: [
     "",
@@ -68,7 +68,7 @@ Progressao um_quatro_cinco_145 = Progressao(
 
 Progressao um_cinco_seis_quatro_1564 = Progressao(
   nome: "um_cinco_seis_quatro_1564",
-  romano: "I V vi IV",
+  romdata: """I V vi IV",
   notas: "C G am F",
   ritmos: [
     "agito",
@@ -96,7 +96,7 @@ Progressao um_cinco_seis_quatro_1564 = Progressao(
 
 Progressao um_seis_quatro_cinco_1645 = Progressao(
   nome: "um_seis_quatro_cinco_1645",
-  romano: "I vi IV V",
+  romdata: """I vi IV V",
   notas: "C am F G",
   ritmos: [
     "",
@@ -114,7 +114,7 @@ Progressao um_seis_quatro_cinco_1645 = Progressao(
 
 Progressao um_quatro_cinco_quatro_1454 = Progressao(
   nome: "um_quatro_cinco_quatro_1454",
-  romano: "I IV V IV",
+  romdata: """I IV V IV",
   notas: "C F G F",
   ritmos: [
     "agito",
@@ -131,7 +131,7 @@ Progressao um_quatro_cinco_quatro_1454 = Progressao(
 
 Progressao seis_quatro_um_cinco_6415 = Progressao(
   nome: "seis_quatro_um_cinco_6415",
-  romano: "vi IV I V",
+  romdata: """vi IV I V",
   notas: "am F C G",
   ritmos: [
     "",
@@ -148,7 +148,7 @@ Progressao seis_quatro_um_cinco_6415 = Progressao(
 
 Progressao dois_cinco_um_251 = Progressao(
   nome: "dois_cinco_um_251",
-  romano: "ii V I",
+  romdata: """ii V I",
   notas: "dm G7 C7+",
   ritmos: [
     "jazz",
@@ -164,7 +164,7 @@ Progressao dois_cinco_um_251 = Progressao(
 
 Progressao um_quatro_cinco_alterne_anterior_145__14154 = Progressao(
   nome: "um_quatro_cinco_alterne_anterior_145__14154",
-  romano: "I IV V",
+  romdata: """I IV V",
   notas: "C F G -- alternando interior: 1 4 1 5 4 1 ",
   ritmos: [
     "blues",
@@ -179,7 +179,7 @@ Progressao um_quatro_cinco_alterne_anterior_145__14154 = Progressao(
 
 Progressao cinco_quatro_um_541 = Progressao(
   nome: "cinco_quatro_um_541",
-  romano: "V IV I",
+  romdata: """V IV I",
   notas: "G F C",
   ritmos: [
     "refrao muita letra",
@@ -196,7 +196,7 @@ Progressao cinco_quatro_um_541 = Progressao(
 
 // Progressao modelo = Progressao(
 //   nome: "",
-//   romano: "",
+//   romdata: """",
 //   notas: "",
 //   ritmos: [
 //     "",

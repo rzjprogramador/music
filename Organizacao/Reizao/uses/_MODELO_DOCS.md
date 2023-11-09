@@ -1,7 +1,7 @@
 
-# Musicas Reizao : SAMBA_DOLENTE : Inicios - Sem GuiaAinda
+# Musicas : categoria :
 
-// modelo
+
 
 numero: , categorias: [ "", "", "",], data: "", titulo: "", compositor(s): "@ReinaldoREIZAO", status: "off", registroVirtual: true, guiaDeRegistro: true, guiaVozViolaoMedia: false, guiaVozViolaoTOP: false,  guiaCompletaTOP: false, disponibilidade: "disponivel para negociar", estaraLiberadaEm: "", contratoComArtistas: [ { artista: '' , até: '' }, { artista: '' , até: '' }, { artista: '' , até: '' }, { artista: '' , até: '' }, { artista: '' , até: '' }, ], links: {
   musica_edit: "",

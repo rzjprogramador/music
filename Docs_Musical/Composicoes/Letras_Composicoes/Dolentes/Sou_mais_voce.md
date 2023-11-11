@@ -1,13 +1,16 @@
+#  Musica : SOU MAIS VOCÊ
+• #compositor(s) : ReinaldoREIZAO
+• Data :  01/01/2005
+• Categorias: [ Dolente ]
+
+---
+CONTATOS
+*instagram : @ReizaoMusic   *twitter: @ReizaoMusic
+site: www.sites.google.com/view/reinaldoreizao10
+---
 
 -----------------------------------------
-CONTATO NO SITE : www.sites.google.com/view/reinaldoreizao10
-redes : twitter instagram : @ReizaoCompositor
-===
-#Musica : SOU MAIS VOCÊ
-#Compositor : @ReinaldoREIZAO
-• Data :  01-01-2002
 
------------------------------------------
 EU DEMOREI PRA TE ENCONTRAR BABY
 E AGORA NAO POSSO TE PERDER
 COISA MAIS LINDA QUE ACONTECEU

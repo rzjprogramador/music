@@ -1,11 +1,17 @@
-• Musica :  Telefonema
-• Compositor : @ReinaldoREIZAO  / Santiago Ferreira / Ronnie Petterson
-• Tom :  C
-• Data :  2002
-• Categorias: [ Agito_POP, ]
+# Musica : TELEFONEMA
+• #compositor(s) : ReinaldoREIZAO  / Santiago Ferreira / Ronnie Petterson
+• Data :  01/ 01/2002
+• Categorias: [ Agito ]
+---
 
-É MADRUGADA
-E O TELEFONE TOCA VOU CORRENDO PRA SABER SE É VOCE
+CONTATOS
+*instagram : @ReizaoMusic   *twitter: @ReizaoMusic
+site: www.sites.google.com/view/reinaldoreizao10
+---
+
+------------------------------------
+
+É MADRUGADA E O TELEFONE TOCA VOU CORRENDO PRA SABER SE É VOCE
 O SILENCIO SÓ ME DEIXA SEM RESPOSTAS
 FICO SEM SABER SE É VOCE
 
@@ -25,9 +31,14 @@ E QUERO UM AMOR
 SENTIR TEU CALOR
 E DESCONTAR O TEMPO QUE PASSOU
 
----
+------------------------------------
+
+------------------------------------
 * Notas :
+* tom: C
 @ParteA:  C Em F G7 --> C  Em F Em Dm G7
 @ParteB:  C Em F G7 ->  C  Em F Em Dm G7
 @Ponte: E7 Am Em F G7 ,
 @Refrao:   C Em F Em F Em Dm G7
+
+------------------------------------

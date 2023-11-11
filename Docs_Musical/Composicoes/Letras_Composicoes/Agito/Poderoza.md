@@ -1,18 +1,18 @@
------------------------------------------
-CONTATO NO SITE : www.sites.google.com/view/reinaldoreizao10
-redes : twitter instagram : @ReizaoCompositor
-===
-#Composicao da Musica : PODEROSA
-#Compositor : @ReinaldoREIZAO
-• Data :  19-01-2023
+# Musica : PODEROSA
+• #compositor(s) : ReinaldoREIZAO
+• Data : 19/01/2023
+• Categorias: [ Agito ]
+---
+
+CONTATOS
+*instagram : @ReizaoMusic   *twitter: @ReizaoMusic
+site: www.sites.google.com/view/reinaldoreizao10
+---
 
 -----------------------------------------
 
-
-QUE PODER É ESTE
-QUE ESTA GATA TEM...
-
-SAO SUPER PODERES
+QUE PODER É ESTE QUE ESTA GATA TEM...
+SÃO SUPER PODERES
 AI NAO TEM PRA NINGUEM..
 
 UMAS FICAM COM ODIO
@@ -21,24 +21,23 @@ SINTO MUITO É BRILHO PROPRIO.
 EH DÓI MENOS SE ACEITAR
 QUE O QUE É OURO NASCEU PRA BRILHAR...
 
-PODEROZA
-GLAMOROZA
+PODEROZA ... GLAMUROZA
 BRILHA COM O SOL NO VERAO...
 
-PODEROZA
-GLAMOROZA
+PODEROZA ... GLAMUROZA
 DINAMITE ACESSA CAUSANDO EXPLOSAO....
 
 AGORA GUENTA CORACAO!
 
 -----------------------------------------
 
-======================
+-----------------------------------------
+
 Sinopse_Musical :
 @Categorias : [ ]
 
 * Harmonia :
-tom:
+tom: D
 Bpm :
 parte: " ", notas: [  ], compassos( ),  repete(), detalhe: "",
 parte: " ", notas: [  ], compassos( ),   repete(), detalhe: "",
@@ -48,7 +47,7 @@ parte: " ", notas: [  ], compassos( ),   repete(), detalhe: "",
 
 ================================
 
-# CHECKLIST_COMPOSICAO
+# CHECKLIST_ Musica
 -----------------------------------------
 ===
 sinopse:

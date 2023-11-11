@@ -1,8 +1,8 @@
 CONTATO NO SITE : www.sites.google.com/view/reinaldoreizao10
 redes : twitter instagram : @ReizaoCompositor
 ===
-#Composicao da Musica : DON VACILON
-#Compositor : @ReinaldoREIZAO
+# Musica da Musica : DON VACILON
+#Compositor : ReinaldoREIZAO
 • Data :  08-11-2023
 
 -----------------------------------------

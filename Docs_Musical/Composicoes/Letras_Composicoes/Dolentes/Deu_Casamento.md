@@ -1,41 +1,54 @@
-( @trap - @refraoInicial )
-LOGO EU QUE DIZIA NÃO SE APAIXONAR
-AQUI ESTOU ... PERDIDO DE AMOR (2vz)
+#  Musica : DEU CASAMENTO
+• #compositor(s) : ReinaldoREIZAO
+• Data :  10/11/2023
+• Categorias: [ Dolente ]
+
 ---
-@samba
-COM ESSA EU NAO CONTAVA
-FALEI BESTEIRA,
-FIZ OUTROS PLANOS, VEIO A SURPRESA
+
+CONTATOS
+*instagram : @ReizaoMusic   *twitter: @ReizaoMusic
+site: www.sites.google.com/view/reinaldoreizao10
+===
+------------------------------------
+
+<< @refraoInicial >>
+
+EU EVITAVA ME APAIXONAR ... LOGO EU
+QUE NAO ACREDITAVA NO AMOR ... LOGO EU
+
+EM UM PASSE DE MAGICA
+PRA MINHA SURPRESA
+VEIO VOCE
+E FICOU SERIA A BRINCADEIRA.
 
 DE UMA FICADA QUE NAO DAVA NADA
-PENSEI SER MAIS UM, ROMANCIN DE BALADA
+O ROMANCIN VENCEU AS DANADAS DAS  REVOADAS
 
-( @trap - @refraoInicial )
+( refraoInicial )
 
-( @samba - @modula )
 DAS BALADAS A GENTE VINGOU
-PARABENS AOS AMIGOS QUE NOS APRESENTOU.
+GRAÇAS AOS AMIGOS QUE NOS APRESENTOU.
 
-ESTÃO CONVIDADOS
-A SEREM OS PADRINHOS ...
-DO NOSSO CASAMENTO ...
+A ELES DEIXO O CONVITE FEITO
+SERÃO OS PADRINHOS DO NOSSO CASAMENTO.
 
-( @trap - @refraoFinal )
-DEU CASAMENTO DEU CASAMENTO
-( ESTAMOS FELIZES LINDOS MOMENTOS )
+DEU CASAMENTO
+FINAL PERFEITO
 
-DEU CASAMENTO DEU CASAMENTO
-( BRINDA COM A GENTE, NOS MERECEMOS )
+DEU CASAMENTO
+VAMOS BRINDAR NÓS MERECEMOS.
 
-====
+------------------------------------
 
 Notas
 tom : CM
-@refraoInicial : G7 CM FM G7/4 G7 CM- G7/4 G7  compasso
+mini_refrao : CM FM G# - G7/4 G7  compasso
  (4/4)
-transicao: [ G7/4 G7]
 fraseados : G7 CM  FM G# G7, - G7/4 G7- , compasso (2/4)
-transicao: [ D#7]
-@modula : G# CM C#  D#7 --> G# CM ( G7/4 G7)
-@refraoFinal : G# cm
+transicao : ( CM D#7 )
+
+modulacao : G# CM C#  D#7 --> G# CM C# ( G7/4 G7)
+refraoFinal : CM G#
+
+------------------------------------
 

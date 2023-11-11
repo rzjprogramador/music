@@ -1,14 +1,14 @@
+# Musica : PRECISO TE ENCONTRAR
+• #compositor(s) : ReinaldoREIZAO / SantiagoFerreira
+• Data :  01/01/2000
+• Categorias: [ Dolente ]
 ---
-CONTATO NO SITE : www.sites.google.com/view/reinaldoreizao10
-redes : twitter instagram : @reizaomusic
+CONTATOS
+*instagram : @ReizaoMusic   *twitter: @ReizaoMusic
+site: www.sites.google.com/view/reinaldoreizao10
 ---
-•  #composicao : PRECISO TE ENCONTRAR
-• #compositor : @ReinaldoREIZAO / SantiagoFerreira
-• Tom :  F
-• Data :  01/ 01/2000
-• Categorias: [ Romantica  ]
+------------------------------------
 
----
 O VENTO TRAZ O FRIO
 PENSO LOGO EM VOCÊ AMOR MEU COBERTOR
 SOZINHO NO MEU QUARTO E CADE VOCE

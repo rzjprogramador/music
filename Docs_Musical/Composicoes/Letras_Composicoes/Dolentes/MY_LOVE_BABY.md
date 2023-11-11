@@ -1,8 +1,12 @@
+CONTATO_VIA:
+instagram : @ReizaoCompositor
+twitter : @ReizaoCompositor
+site: www.sites.google.com/view/reinaldoreizao10
 
+===
 Composicao da Musica : MEU LOVE BABY
 #Compositor : @ReinaldoREIZAO
 • Data :  11-11-2023
-
 ===
 
 A PERGUNTA QUE NÃO QUER CALAR

@@ -1,0 +1,46 @@
+
+Composicao da Musica : MY LOVE BABY
+#Compositor : @ReinaldoREIZAO
+• Data :  11-11-2023
+
+===
+
+A PERGUNTA QUE NÃO QUER CALAR
+VOCE ME AMA, SIM...
+
+GRITA MAIS FORTE AI , QUE AINDA NAO OUVI ... SIM .. .
+
+O O O OU
+QUE ONDA A GENTE TIROU
+NOVE SEMANAS E MEIA DE AMOR...
+
+IE IEIE 
+NAO CANSO DE AGRADECER
+A DEUS POR ME DAR VOCE
+---
+É MEU LOVE LOVE BABY ...
+BABY
+---
+E SE GOSTOU É SÓ PEDIR BIS
+MINHA META É TE VER FELIZ ... BABY
+
+ENTENDEU OU VOU TER QUE DESENHAR
+AMOR MAIOR NO MUNDO NÃO HÁ ... BABY
+
+OH O OH !!! 
+( volta parte B )
+
+====
+
+Notas : 
+parte A : D AM G C7
+
+parte B : G C7 G - EM  F#7/4 F#7
+
+refrao : bm E7 
+escapeRefrao: G
+
+
+
+
+

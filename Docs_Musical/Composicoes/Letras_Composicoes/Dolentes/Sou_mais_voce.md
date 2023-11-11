@@ -5,7 +5,7 @@
 
 ---
 CONTATOS
-*instagram : @ReizaoMusic   *twitter: @ReizaoMusic
+*instagram : @ReizaoMusic   *X - twitter: @ReizaoMusic
 site: www.sites.google.com/view/reinaldoreizao10
 ---
 

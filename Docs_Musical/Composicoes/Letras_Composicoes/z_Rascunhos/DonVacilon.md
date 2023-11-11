@@ -1,5 +1,5 @@
 CONTATO NO SITE : www.sites.google.com/view/reinaldoreizao10
-redes : twitter instagram : @ReizaoCompositor
+redes : X - twitter instagram : @ReizaoCompositor
 ===
 # Musica da Musica : DON VACILON
 #Compositor : ReinaldoREIZAO

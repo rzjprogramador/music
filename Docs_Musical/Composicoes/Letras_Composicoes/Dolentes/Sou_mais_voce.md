@@ -25,7 +25,7 @@ PRA ME FAZER FELIZ
 EU SOU MAIS VOCÊ
 PRA TER FELICIDADE
 AMOR SEM VAIDADE
-SÓ ME DA PRAZER
+ALÉM DO PRAZER
 
 -----------------------------------------
 

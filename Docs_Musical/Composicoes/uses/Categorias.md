@@ -1,7 +1,7 @@
 # CATEGORIAS
 
 Utilizadas : {
-  lenta : [ "Dolente", "Gospel_Dolente", ],
-  rapida: [ "Agito", "Gospel_Agito" ]
-  balanco: [ "SambaRock", "Swing" ]
+  lenta : [ "Dolente", "Dolente_Gospel", "Dolente_Samba", ],
+  rapida: [ "Agito", "Agito_Gospel", "Agito_Samba" ]
+  balanco: [ "SambaRock", "Balanco_Samba" ]
 }

@@ -10,7 +10,7 @@ numero: 1, categorias: [ "Agito", "", "",], data: ""2000, titulo: "Telefonema", 
 },
 
 
-numero: 2, categorias: [ "pop_Agito", "", "",], data: "", titulo: "Cena de Cinema", compositor(s): "@ReinaldoREIZAO/EndrigoMoraes/Sidney", status: "off", registroVirtual: true, guiaDeRegistro: true, guiaVozViolaoMedia: true, guiaVozViolaoTOP: false,  guiaCompletaTOP: true, disponibilidade: "disponivel para negociar", estaraLiberadaEm: "", contratoComArtistas: [ { artista: '' , até: '' }, { artista: '' , até: '' }, { artista: '' , até: '' }, { artista: '' , até: '' }, { artista: '' , até: '' }, ], links: {
+numero: 2, categorias: [ "Agito", "", "",], data: "", titulo: "Cena de Cinema", compositor(s): "@ReinaldoREIZAO/EndrigoMoraes/Sidney", status: "off", registroVirtual: true, guiaDeRegistro: true, guiaVozViolaoMedia: true, guiaVozViolaoTOP: false,  guiaCompletaTOP: true, disponibilidade: "disponivel para negociar", estaraLiberadaEm: "", contratoComArtistas: [ { artista: '' , até: '' }, { artista: '' , até: '' }, { artista: '' , até: '' }, { artista: '' , até: '' }, { artista: '' , até: '' }, ], links: {
   musica_edit: "",
   musica_registro_nasc: "",
   musica_registro_oficial: "",

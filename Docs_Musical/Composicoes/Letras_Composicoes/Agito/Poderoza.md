@@ -1,9 +1,7 @@
 # Musica : PODEROSA
 • #compositor(s) : ReinaldoREIZAO
 • Data : 19/01/2023
-• Categorias: [ Agito ]
 ---
-
 CONTATOS
 *instagram : @ReizaoMusic   *X - twitter: @ReizaoMusic
 site: www.sites.google.com/view/reinaldoreizao10
@@ -34,7 +32,7 @@ AGORA GUENTA CORACAO!
 -----------------------------------------
 
 Sinopse_Musical :
-@Categorias : [ ]
+Categorias: [ Agito ]
 
 * Harmonia :
 tom: D

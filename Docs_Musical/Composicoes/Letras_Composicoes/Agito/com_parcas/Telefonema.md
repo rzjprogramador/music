@@ -1,9 +1,7 @@
 # Musica : TELEFONEMA
 • #compositor(s) : ReinaldoREIZAO  / Santiago Ferreira / Ronnie Petterson
 • Data :  01/ 01/2002
-• Categorias: [ Agito ]
 ---
-
 CONTATOS
 *instagram : @ReizaoMusic   *X - twitter: @ReizaoMusic
 site: www.sites.google.com/view/reinaldoreizao10
@@ -33,12 +31,20 @@ E DESCONTAR O TEMPO QUE PASSOU
 
 ------------------------------------
 
-------------------------------------
-* Notas :
-* tom: C
-@ParteA:  C Em F G7 --> C  Em F Em Dm G7
-@ParteB:  C Em F G7 ->  C  Em F Em Dm G7
-@Ponte: E7 Am Em F G7 ,
-@Refrao:   C Em F Em F Em Dm G7
+---
+Sinopse_Musical :
+@Categorias : [ Agito ]
+
+* Harmonia :
+tom: C
+Bpm :
+parte: "A", notas: [ C Em F G7 --> C  Em F Em Dm G7 ], compassos( ),  repete(), detalhe: "",
+parte: "transicao", notas: [  ], compassos( ),   repete(), detalhe: "",
+parte: "B", notas: [ E7 Am Em F G7 ], compassos( ),   repete(), detalhe: "",
+parte: "transicao", notas: [  ], compassos( ),   repete(), detalhe: "",
+parte: "REFRAO", notas: [ C Em F Em F Em Dm G7 ], compassos( ),   repete(), detalhe: "",
+parte: "transicao", notas: [  ], compassos( ),   repete(), detalhe: "",
+parte: "C", notas: [  ], compassos( ),   repete(), detalhe: "",
 
 ------------------------------------
+

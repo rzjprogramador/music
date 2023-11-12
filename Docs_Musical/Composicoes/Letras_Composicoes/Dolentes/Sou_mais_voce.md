@@ -1,8 +1,6 @@
 #  Musica : SOU MAIS VOCÊ
 • #compositor(s) : ReinaldoREIZAO
 • Data :  01/01/2005
-• Categorias: [ Dolente ]
-
 ---
 CONTATOS
 *instagram : @ReizaoMusic   *X - twitter: @ReizaoMusic

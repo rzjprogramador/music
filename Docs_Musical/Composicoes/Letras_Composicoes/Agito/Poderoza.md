@@ -4,7 +4,7 @@
 ---
 CONTATOS
 *instagram : @ReizaoMusic   *X - twitter: @ReizaoMusic
-site: www.sites.google.com/view/reinaldoreizao10
+Telefone_no_Site: www.sites.google.com/view/reinaldoreizao10
 ---
 
 -----------------------------------------
@@ -37,9 +37,11 @@ Categorias: [ Agito ]
 * Harmonia :
 tom: D
 Bpm :
-parte: " ", notas: [  ], compassos( ),  repete(), detalhe: "",
-parte: " ", notas: [  ], compassos( ),   repete(), detalhe: "",
-parte: " ", notas: [  ], compassos( ),   repete(), detalhe: "",
+parte: "A", notas: [ D em  ], compassos( ),  repete(3), detalhe: "",
+parte: "A_2", notas: [ bm G C em A7/4 ], compassos( ),   repete(0), detalhe: "",
+parte: "REFRAO_A", notas: [ F7 bm f#m G ], compassos( ),   repete(), detalhe: "",
+parte: "transicao_Continua_Refrao", notas: [ A7/4 ], compassos( ),   repete(), detalhe: "",
+parte: "transicao_FechaRefrao", notas: [ C em A7/4 ], compassos( ),   repete(), detalhe: "",
 
 =======================
 

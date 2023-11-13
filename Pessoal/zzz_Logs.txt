@@ -1,15 +1,20 @@
 # ARRUMAR ==============
 
 LOGGS MUSICAL
-rede: "MODELO" , finalidade: "", identidade: "@ReizaoCompositor", acesso: "", pass: "", vinculado: "", link: "",  }
 
-rede: "FIRMA" ,finalidade: "",  identidade: "@ReizaoCompositor", acesso: "", pass: "",  vinculado: "", link: "",  }
+rede: "MODELO" , finalidades: ["", ], identidade: "", acesso: "", pass: "", vinculado: "", link: "",  }
 
-rede: "Instagram" , finalidade: "", identidade: "@ReizaoCompositor", acesso: "@ReizaoCompositor", pass: "", vinculado: "",  link: "",  }
 
-rede: "Youtube" , finalidade: "", identidade: "@ReizaoCompositor", acesso: "reizaomusical@gmail.com", pass: "Rz..30...@", vinculado: "",  link: "",  }
 
-rede: "BandLab" , identidade: "@ReizaoCompositor", acesso: "reizaomusical@gmail.com ", pass: "Rzj30...@",  vinculado: "conta google ReizaoMusical", link: "https://www.bandlab.com/library/projects/recent
+rede: "Google, gmail," , finalidades: ["", ], identidade: "", acesso: "reizao1977@gmail.com", pass: "Rzj-PAPA-MAMA-EU-@", vinculado: "", link: "",  }
+
+rede: "Google, gmail" ,finalidades: ["Gerenciar Musicas Compositor", ],  identidade: "@ReizaoMusic", acesso: "reizaomusic@gmail.com", pass: "",  vinculado: "inicio fone guga 965892412 depois meu 976243818", link: "",  }
+
+rede: "Instagram" , finalidades: ["",], identidade: "@ReizaoCompositor", acesso: "@ReizaoCompositor", pass: "", vinculado: "",  link: "",  }
+
+rede: "Youtube, Gmail" , finalidades: [ "Drive Music", "Playlists Aprendiz Youtube" ], identidade: "@ReizaoCompositor", acesso: "reizaomusical@gmail.com", pass: "Rz..30...@", vinculado: "",  link: "",  }
+
+rede: "BandLab" , finalidades: [ "", ] identidade: "@ReizaoCompositor", acesso: "reizaomusical@gmail.com ", pass: "Rzj30...@",  vinculado: "conta google ReizaoMusical", link: "https://www.bandlab.com/library/projects/recent
  reizaomusical@gmail.com",  }
 
 
@@ -27,7 +32,7 @@ Instagram
 @Reizao010  @Reizao01
 ]
 
-spotify : reizao1977@gmail.com // pass: Rzj30...@
+spotify : reizao1977@gmail.com // pass: Rzj-30..10@
 
 ---
 nomeUser_redes_combinados: reizaomusic [ twitter, instagram, ]
@@ -74,7 +79,7 @@ contas_antigas_perdidas
 youtube: reinaldotodynho : https://www.youtube.com/@reinaldotodynho/videos
 ---
 amazon : {
-site: www.amazon.com.br
+Telefone_no_Site: www.amazon.com.br
  log: reizao1977@gmail.com
 pass: gg30...@
 }
@@ -103,7 +108,6 @@ MeusCursos : https://consumer.hotmart.com/purchase
 
 contas_provedores:
   google: [
-  reizao1977 :: Rz PAI MAMA EU ... OU ...30..@
   rzjprogramador@gmail.com ,
 reizaomusical@gmail , Rz..MAMA,
 rzjvideosum@gmail.com  :: s: Rzj30.. :: -> videos um

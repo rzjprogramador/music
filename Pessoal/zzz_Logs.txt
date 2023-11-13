@@ -2,20 +2,21 @@
 
 LOGGS MUSICAL
 
-rede: "MODELO" , finalidades: ["", ], identidade: "", acesso: "", pass: "", vinculado: "", link: "",  }
+rede: "MODELO" , finalidades: ["", ], identidade: "", acesso: "", pass: "", vinculado: "", links: [ "", "", ],  }
 
 
 
-rede: "Google, gmail," , finalidades: ["", ], identidade: "", acesso: "reizao1977@gmail.com", pass: "Rzj-PAPA-MAMA-EU-@", vinculado: "", link: "",  }
+rede: "Google, gmail," , finalidades: ["", ], identidade: "", acesso: "reizao1977@gmail.com", pass: "Rzj-PAPA-MAMA-EU-@", vinculado: "", links: [ "", "", ],  }
 
-rede: "Google, gmail" ,finalidades: ["Gerenciar Musicas Compositor", ],  identidade: "@ReizaoMusic", acesso: "reizaomusic@gmail.com", pass: "",  vinculado: "inicio fone guga 965892412 depois meu 976243818", link: "",  }
+rede: "Google, gmail" ,finalidades: ["Gerenciar Musicas Compositor", ],  identidade: "@ReizaoMusic", acesso: "reizaomusic@gmail.com", pass: "",  vinculado: "inicio fone guga 965892412 depois meu 976243818", links:[ "Canal_Youtube: @ReizaoMusic",
+"",
+]  }
 
-rede: "Instagram" , finalidades: ["",], identidade: "@ReizaoCompositor", acesso: "@ReizaoCompositor", pass: "", vinculado: "",  link: "",  }
+rede: "Instagram" , finalidades: ["",], identidade: "@ReizaoCompositor", acesso: "@ReizaoCompositor", pass: "", vinculado: "",  links: [ "", "", ],  }
 
-rede: "Youtube, Gmail" , finalidades: [ "Drive Music", "Playlists Aprendiz Youtube" ], identidade: "@ReizaoCompositor", acesso: "reizaomusical@gmail.com", pass: "Rz..30...@", vinculado: "",  link: "",  }
+rede: "Youtube, Gmail" , finalidades: [ "Drive Music", "Playlists Aprendiz Youtube" ], identidade: "@ReizaoCompositor", acesso: "reizaomusical@gmail.com", pass: "Rz..30...@", vinculado: "",  links: [ "", "", ],  }
 
-rede: "BandLab" , finalidades: [ "", ] identidade: "@ReizaoCompositor", acesso: "reizaomusical@gmail.com ", pass: "Rzj30...@",  vinculado: "conta google ReizaoMusical", link: "https://www.bandlab.com/library/projects/recent
- reizaomusical@gmail.com",  }
+rede: "BandLab" , finalidades: [ "", ] identidade: "@ReizaoCompositor", acesso: "reizaomusical@gmail.com ", pass: "Rzj30...@",  vinculado: "conta google ReizaoMusical", links: [ "bandLab : "https://www.bandlab.com/library/projects/recent", ""],  }
 
 
 ===
@@ -79,6 +80,7 @@ contas_antigas_perdidas
 youtube: reinaldotodynho : https://www.youtube.com/@reinaldotodynho/videos
 ---
 amazon : {
+Canal_Youtube: @ReizaoMusic
 Telefone_no_Site: www.amazon.com.br
  log: reizao1977@gmail.com
 pass: gg30...@

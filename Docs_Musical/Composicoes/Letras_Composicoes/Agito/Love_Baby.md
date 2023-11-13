@@ -1,6 +1,6 @@
-# Musica : PODEROSA
+# Musica : LOVE BABY
 • #compositor(s) : ReinaldoREIZAO
-• Data : 19/01/2023
+• Data : 11/11/2023
 ---
 CONTATOS
 *instagram : @ReizaoMusic   *X - twitter: @ReizaoMusic
@@ -10,23 +10,34 @@ Telefone_no_Site: www.sites.google.com/view/reinaldoreizao10
 
 -----------------------------------------
 
-QUE PODER É ESTE QUE ESTA GATA TEM...
-SÃO SUPER PODERES
-AI NAO TEM PRA NINGUEM..
+A PERGUNTA QUE NÃO QUER CALAR
+VOCE ME AMA, SIM...
 
-UMAS FICAM COM ODIO
-SINTO MUITO É BRILHO PROPRIO.
+GRITA MAIS FORTE AI , QUE AINDA NAO OUVI ... SIM .. .
 
-EH DÓI MENOS SE ACEITAR
-QUE O QUE É OURO NASCEU PRA BRILHAR...
+O O O OU
+QUE ONDA A GENTE TIROU
+NOVE SEMANAS E MEIA DE AMOR...
 
-PODEROZA ... GLAMUROZA
-BRILHA COM O SOL NO VERAO...
+IE IEIE
+NAO CANSO DE AGRADECER
+A DEUS POR ME DAR VOCE
 
-PODEROZA ... GLAMUROZA
-DINAMITE ACESSA CAUSANDO EXPLOSAO....
+---
+@refrao
+É MEU LOVE LOVE BABY ...
+BABY
+---
 
-AGORA GUENTA CORACAO!
+@parte2:
+E SE GOSTOU É SÓ PEDIR BIS
+MINHA META É TE VER FELIZ ... BABY
+
+ENTENDEU OU VOU TER QUE DESENHAR
+AMOR MAIOR NO MUNDO NÃO HÁ ... BABY
+
+OH O OH !!!
+( volta parte B )
 
 -----------------------------------------
 
@@ -37,14 +48,11 @@ Categorias: [ Agito ]
 
 * Harmonia :
 tom: D
-Bpm : 82
-parte: "A", notas: [ D em  ], compassos( ),  repete(3), detalhe: "",
-parte: "A_2", notas: [ bm G C em A7/4 ], compassos( ),   repete(0), detalhe: "",
-parte: "REFRAO_A", notas: [ F7 bm f#m G A7 D ], compassos( ),   repete(), detalhe: "",
-parte: "transicao_Continua_Refrao", notas: [ A7/4 ], compassos( ),   repete(), detalhe: "",
-parte: "transicao_FechaRefrao", notas: [ C em A7/4 ], compassos( ),   repete(), detalhe: "",
-
-=======================
+Bpm :
+parte: "A", notas: [ D am G C7  ], compassos( ),  repete(3), detalhe: "",
+parte: "B", notas: [ G C7 bm - em F#7/4 F#7 ], compassos( ),   repete(0), detalhe: "",
+parte: "REFRAO_A", notas: [ bm E7 ], compassos( ),   repete(), detalhe: "",
+parte: "transicao_FechaRefrao", notas: [ G ], compassos( ),   repete(), detalhe: "",
 
 ================================
 

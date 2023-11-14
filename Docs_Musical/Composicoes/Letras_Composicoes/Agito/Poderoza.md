@@ -38,7 +38,7 @@ Categorias: [ Agito ]
 * Harmonia :
 tom: D
 Bpm : 82
-parte: "A", notas: [ D em  ], compassos( ),  repete(3), detalhe: "",
+parte: "A", notas: [ D Em7/b5  ], compassos( ),  repete(3), detalhe: "",
 parte: "A_2", notas: [ bm G C em A7/4 ], compassos( ),   repete(0), detalhe: "",
 parte: "REFRAO_A", notas: [ F7 bm f#m G A7 D ], compassos( ),   repete(), detalhe: "",
 parte: "transicao_Continua_Refrao", notas: [ A7/4 ], compassos( ),   repete(), detalhe: "",

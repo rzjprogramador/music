@@ -16,7 +16,7 @@ Tom_Maior
   SI : [ "Declaracao para outra pessoa", "", "", ]
 
 Tom_Menor
-  DO_menor : [ "saudade", "Presente e Futuro", ]
+  DO_menor : [ "Meus Sentimentos", "saudade", "Presente e Futuro", ]
   RE_menor : [ "sinceridade falando pra outra pessoa", "Presente", "Relembrando Passado", ]
   MI_menor : [ "sinceridade minha ou dos outros muitas Pessoas, nao especificamente de outra pessoa", ]
   FA_menor : [ "Desejo meu sobre outra pessoa",  "Presente", ]

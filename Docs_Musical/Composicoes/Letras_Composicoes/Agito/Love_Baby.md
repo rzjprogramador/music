@@ -11,9 +11,9 @@ Telefone_no_Site: www.sites.google.com/view/reinaldoreizao10
 -----------------------------------------
 
 A PERGUNTA QUE NÃO QUER CALAR
-VOCE ME AMA, SIM...
+VOCE ME AMA ... 'SIM'
 
-GRITA MAIS FORTE AI , QUE AINDA NAO OUVI ... SIM .. .
+EU AINDA NAO OUVI ... GRITA MAIS FORTE AI... 'SIM'
 
 O O O OU
 QUE ONDA A GENTE TIROU
@@ -24,7 +24,6 @@ NAO CANSO DE AGRADECER
 A DEUS POR ME DAR VOCE
 
 ---
-@refrao
 É MEU LOVE LOVE BABY ...
 BABY
 ---

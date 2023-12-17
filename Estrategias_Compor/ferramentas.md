@@ -53,15 +53,24 @@ tipo_de_Frase_Verbo : {
   altura: sobe_Agudo,
 }
 
+# Formas_de_acorde_por_grau
+I : Maior
+II : menor
+III : menor
+IV : Maior
+V : Maior
+VI : menor_Relativo_do_1
+7VII : diminuto
+
 # Funcoes_Graus
-Base_Tonica : sentimento: "repouso, é onde resolve", graus: [ 1, 3, 6 ]
+Base_Tonica : sentimento: "repouso, é onde resolve", Formas_de_acorde_por_grau: [ I, III, VI ]
 
 Variavel_Muda: [
   {
-    nome: "Variavel_SubDominante", sentimento: "abre caminhos viaja", graus: [ 2, 4 ]
+    nome: "Variavel_SubDominante", sentimento: "abre caminhos viaja", Formas_de_acorde_por_grau: [ II, IV ]
   },
   {
-    nome: "Variavel_Dominante" : sentimento: "Desenquilibrio, tensao, prepara para onde resolve ", graus: [ 5, 7 ]
+    nome: "Variavel_Dominante" : sentimento: "Desenquilibrio, tensao, prepara para onde resolve ", Formas_de_acorde_por_grau: [ V , VII ]
   }
   ]
 

@@ -1,6 +1,5 @@
 #  Musica : SOU MAIS VOCÊ
 • #compositor(s) : ReinaldoREIZAO
-• Data :  01/01/2005
 ---
 CONTATOS
 *instagram : @ReizaoMusic   *X - twitter: @ReizaoMusic
@@ -32,9 +31,11 @@ ALÉM DO PRAZER
 -----------------------------------------
 
 ======================
-Snopse_Musical :
-@Categorias : [ Dolente ]
-* Harmonia :
+# dados
+• Data :  01/01/2005
+categorias : [ Dolente ]
+
+# Harmonia :
 tom: D
 parte: "A", notas: [ D Bb D Bb bm f#m G Bb ], repete(), detalhe: "",
 parte: "B", notas: [ D Bb D Bb bm f#m G Bb ], repete(), detalhe: "",

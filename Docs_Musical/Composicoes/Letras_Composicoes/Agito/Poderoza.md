@@ -26,9 +26,7 @@ BRILHA COM O SOL NO VERAO...
 PODEROZA ... GLAMUROZA
 DINAMITE ACESSA CAUSANDO EXPLOSAO....
 
-AGORA GUENTA CORACAO!
-
------------------------------------------
+AGORA AGUENTA CORACAO !
 
 -----------------------------------------
 
@@ -38,36 +36,14 @@ Categorias: [ Agito ]
 * Harmonia :
 tom: D
 Bpm : 82
-parte: "A", notas: [ D Em7/b5  ], compassos( ),  repete(3), detalhe: "",
-parte: "A_2", notas: [ bm G C em A7/4 ], compassos( ),   repete(0), detalhe: "",
-parte: "REFRAO_A", notas: [ F7 bm E7 Bm E7 G C Em A7/4 A7 D ], compassos( ),   repete(), detalhe: "",
-parte: "transicao_Continua_Refrao", notas: [ A7/4 ], compassos( ),   repete(), detalhe: "",
-parte: "transicao_FechaRefrao", notas: [ A7/4 A7 D ], compassos( ),   repete(), detalhe: "",
+parte: "A", notas: [ D Em7/b5  ],repete(3)
 
-=======================
+parte: "B", notas: [ bm F#m G C Em A7/4 - F#7 ]
 
-================================
+parte: "REFRAO", notas: [ bm E7 Bm E7 G C Em A7/4 A7 D ]
 
-# CHECKLIST_ Musica
------------------------------------------
-===
-sinopse:
-@Estado:  [ ] alegre [  ] naoAlegre
-@Dicas: ["Primeiro defina o Sentimento_Central e pergunte-se PORQUE ... AI ASSIM VOCE TERÁ O TEMA.", ]
+parte: "FECHAMENTO", notas: [ A7/4 A7 D ]
 
-@Tema: {
-  titulo_Comercial: " ",
-   tema_Moral : "",
-  sentimento_Central : "Alguem que ... "
-}
-
-rimas : {
-  rima_central : " "
-  rimou_versoMetadeVersos : false
-  rima_parte_1_a_diferente : " "
-  rima_parte_2_a : rima_central
-  rima_parte_b : rima_central
-  rima_refrao : rima_central
-}
+---
 
 

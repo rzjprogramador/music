@@ -1,12 +1,5 @@
 # Musica : PODEROSA
 • #compositor(s) : ReinaldoREIZAO
-• Data : 19/01/2023
----
-CONTATOS
-*instagram : @ReizaoMusic   *X - twitter: @ReizaoMusic
-Canal_Youtube: @ReizaoMusic
-Telefone_no_Site: www.sites.google.com/view/reinaldoreizao10
----
 
 -----------------------------------------
 
@@ -30,7 +23,8 @@ PEGA ESSA VISAO !
 
 -----------------------------------------
 
-Sinopse_Musical :
+Dados :
+Data : 19/01/2023
 Categorias: [ Agito ]
 
 * Harmonia :

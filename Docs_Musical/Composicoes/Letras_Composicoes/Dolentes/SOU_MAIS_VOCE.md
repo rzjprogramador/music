@@ -1,4 +1,4 @@
-#  Musica : SOU MAIS VOCÊ
+⁷#  Musica : SOU MAIS VOCÊ
 • #compositor(s) : ReinaldoREIZAO
 ---
 CONTATOS
@@ -37,9 +37,9 @@ categorias : [ Dolente ]
 
 # Harmonia :
 tom: D
-parte: "A", notas: [ D Bb D Bb bm f#m G Bb ], repete(), detalhe: "",
-parte: "B", notas: [ D Bb D Bb bm f#m G Bb ], repete(), detalhe: "",
-parte: "REFRAO", notas: [ G F#7 bm G A7 D ], repete(), detalhe: "",
-parte: "transicao", notas: [ Bb ], repete(), detalhe: "esta transicção é só para voltar a musica.",
+parte: "A-B", notas: [ D Bb bm Bb - bm f#m Em//G A7/4 A7 D ]
+
+parte: "REFRAO", notas: [ D7 G F#7 bm G A7 D ]
+
 
 =======================

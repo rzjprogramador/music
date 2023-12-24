@@ -1,5 +1,5 @@
-⁷#  Musica : SOU MAIS VOCÊ
-• #compositor(s) : ReinaldoREIZAO
+#  Musica : SOU MAIS VOCÊ
+#compositor(s) : ReinaldoREIZAO
 
 ---
 

@@ -26,6 +26,6 @@ PRA SEMPRE TE AMAR
 ---
 notas
 Tom : C
-Parte : A : [ G7 C am F em dm G7  ]
-Parte : B : [ E7 am em am C7 F  em dm G7 ]
-Parte : Refrao : [ C C7 F G7 - C C7 F G7 ]
+Parte : A : [ G7 C Em - Am Em G7/4 G7 ], repete: 2x
+Parte : B : [ E7/4 Am Em Am C7 F Em G7/4 ]
+Parte : Refrao : [ C F - C C7 F Em G7/4 ]

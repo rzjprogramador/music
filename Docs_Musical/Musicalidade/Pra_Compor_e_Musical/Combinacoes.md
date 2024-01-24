@@ -5,7 +5,7 @@
 letras: ["I", "U"], nota: "RÉ maior ou menor"
 letra: "A", nota: "SI maior, menor, COM 7setima"
 
-# SENTIMENTOS_SITUACAO
+# TOM_PARA_SENTIMENTO
 Tom_Maior
   DO : [ "Falar de mim", "Falar de algo, que nao seja outra pessoa", "Presente e Futuro", ]
   RE : [ "Falar da outra pessoa", "Nós Dois", "Passado", ]

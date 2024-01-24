@@ -34,22 +34,7 @@ acordes_custume: [ "De preparacao 1º e 6º grau com ou sem setima", "5º", "3º
 
 ---
 
-# Exercicios
-Aquecimento: para sair da Voz de fala para voz de canto
-
-Cor_e_Volume: Depende do uso do Palato Ceu da boca, Aberto fica Escuro, fechando fica Claro.
-
-Boca: Boca Oval lingua encostada atraz dos dentes da frente,  https://youtu.be/8aRbdobwcZ8?si=pwDzksmJtyAQuRNQ
-
-Efeitos:
-  para_inicios: [ "Sussuro WisperVoice nasnotas graves ex: https://youtube.com/shorts/QB-2YWfIYp0?si=A-3oCGN-SjLZ3_Vy", ]
-
-Registro_de_,firmeza: [
-"forcar_Nariz https://youtube.com/shorts/EXVCKzsP_v4?si=1pJEyX7py4hUXgaU" ,
-
-]
-
-Resumo_Pensar_Cantar : [
+# Resumo_Pensar_Cantar : [
 
 - 1 - Postura e Aspirar, Frente Umbigo, aspira nariz na primeira.
 -
@@ -69,7 +54,9 @@ Resumo_Pensar_Cantar : [
 
 ]
 
-Enfeites :
+---
+
+# Enfeites :
 
 para_vogais : [
 "Apogiatura, execucao : vai duplicar a vogal jogando a primeira pro agudo e a segunda no  ",
@@ -86,3 +73,7 @@ para_meios_trocaRegistros : [
 ]
 
 para_finais : []
+
+---
+
+

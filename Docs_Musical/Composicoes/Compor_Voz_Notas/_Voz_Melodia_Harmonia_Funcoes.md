@@ -1,9 +1,9 @@
 # VOZ MELODIA HARMONIA FUNCOES
 
 # titulo: VARIAÇÕES DE REGISTROS
-caracteristica: "GRAVE", acessos: [ "MÔ", ], variacoes: [ "sussurro", "Sincero", "falsete_grave", "De Peito/Voz da Fala", "duro", ], vogais: "vogai_fracas: U I Â", funcoes_harmonicas: [ "Calmaria", "Gentil", ], acordes_costume: [ "1º Tonica e 6º grau Tonica_Relativa", ], aspirar_antes: "SIM",
+caracteristica: "GRAVE", acessos: [ "MÔ", ], registros: [ "sussurro", "Sincero", "falsete_grave", "De Peito/Voz da Fala", "duro", ], vogais: "vogai_fracas: U I Â", funcoes_harmonicas: [ "Calmaria", "Gentil", ], acordes_costume: [ "1º Tonica e 6º grau Tonica_Relativa", ], aspirar_antes: "SIM",
 
-caracteristica: "AGUDO", acessos: [ "RU..HÚLLL", ], variacoes: [ "falsete", "", "", ], vogais: "vogais_fortes: A E Ó I", funcoes_harmonicas: [ "Tensao", "Coros", "Explosao", "Alturas", Conexao", "Preparacao" ], acordes_costume: [ "", ], aspirar_antes: "SIM #importante sempre aspire antes da Tensao ou Preparação.",
+caracteristica: "AGUDO", acessos: [ "RU..HÚLLL", ], registros: [ "falsete firme( Quase sem soltar Ar )", "falsete fraco( Soltando Ar )", "", ], vogais: "vogais_fortes: A E Ó I", funcoes_harmonicas: [ "Tensao", "Coros", "Explosao", "Alturas", Conexao", "Preparacao" ], acordes_costume: [ "", ], aspirar_antes: "SIM #importante sempre aspire antes da Tensao ou Preparação.",
 
 caracteristica: "MEDIO", acessos: [ "NENÉM", "ANIMADO", "CHORO BÊBÊ" ], variacoes: [ "Mix", "Firme", "Nazal Neném", ], vogais: "vogais_curinga: A I servem para todos.", funcoes_harmonicas: [ "Conversa", "Construir Conversa", "Pergunta", "Resposta" ],  acordes_costume: [ "4º Subdominante","2º Subdominante relativo" ], aspirar_antes: "SIM",
 

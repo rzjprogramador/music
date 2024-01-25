@@ -1,5 +1,9 @@
 # VOZ MELODIA HARMONIA FUNCOES
 
+Aspiracao: [
+"aspire susto charmoso rapido e pouco e apoie, ideal aspirar antes da parteResposta no verso, para o outro verso ja vim no mesmo ar de embalo. E nas pausas tambem.",
+]
+
 # titulo: VARIAÇÕES DE REGISTROS
 caracteristica: "GRAVE", acessos: [ "MÔ", ], sub_registros: [ "sussurro", "Sincero", "falsete_grave", "De Peito/Voz da Fala", "duro", ], vogais: "vogai_fracas: U I Â", funcoes_harmonicas: [ "Calmaria", "Gentil", ], acordes_costume: [ "1º Tonica e 6º grau Tonica_Relativa", ], aspirar_antes: "SIM",
 

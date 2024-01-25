@@ -34,6 +34,7 @@ acordes_custume: [ "De preparacao 1º e 6º grau com ou sem setima", "5º", "3º
 
 ---
 ## BOCA CANTAR VOGAIS
+uso: "SEM ABRIR EXAGERADO",
 A E : ABRE LATERAIS
 O : OVAL
 U : BIQUINHO SEMI ABERTO

@@ -1,7 +1,7 @@
 # VOZ MELODIA HARMONIA FUNCOES
 
 # titulo: VARIAÇÕES DE REGISTROS
-caracteristica: "GRAVE", acessos: [ "MÔ", ], variacoes: [ "sussurro", "falsete_grave", "peito", "duro", ], vogais: "vogai_fracas: U I Â", funcoes_harmonicas: [ "Calmaria", "Gentil", ], acordes_costume: [ "1º Tonica e 6º grau Tonica_Relativa", ], aspirar_antes: "SIM",
+caracteristica: "GRAVE", acessos: [ "MÔ", ], variacoes: [ "sussurro", "falsete_grave", "De Peito/Voz da Fala", "duro", ], vogais: "vogai_fracas: U I Â", funcoes_harmonicas: [ "Calmaria", "Gentil", ], acordes_costume: [ "1º Tonica e 6º grau Tonica_Relativa", ], aspirar_antes: "SIM",
 
 caracteristica: "AGUDO", acessos: [ "RU..HÚLLL", ], variacoes: [ "falsete", "", "", ], vogais: "vogais_fortes: A E Ó I", funcoes_harmonicas: [ "Tensao", "Coros", "Explosao", "Alturas", Conexao", "Preparacao" ], acordes_costume: [ "", ], aspirar_antes: "SIM #importante sempre aspire antes da Tensao ou Preparação.",
 

@@ -2,7 +2,7 @@
 
 use_conexoes_virgula_preparacao: [
 "E TE ... _", 
-  "QUE EU _", QUE SE _",
+  "QUE EU _", QUE SE _", "QUE SOU..._",
   "MAS _",
 
 ]

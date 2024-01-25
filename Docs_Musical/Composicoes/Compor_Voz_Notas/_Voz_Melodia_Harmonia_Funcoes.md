@@ -23,11 +23,11 @@ andar: "2", sensacao: "Suspense, Animado", altura: "meio crescente do baixo para
 # conexao_virgula
 conceito: "É o que liga a pergunta a resposta dentro de uma frase",
 
-localizacao: "Se encontra depois ou sensacão de virgula, ou continuacao ou prepara resposta."
+localizacao: "Se encontra depois ou sensacão de virgula, ou continuacao ou preparação de resposta."
 
 resultado_de_uso: "faz a proxima palavra da sequencia TROCAR DE REGISTRO OU ENFEITE e se ALONGAR ou vibrar para CIMA ou apra BAIXO, alterne se alongou pra baixo antes alongue para Cima na proxima frase.",
 
-usar_registro_ou_ferramenta: [ "AGUDO", "ou AMENIZAR PRA FINALIZAR", "ou ABAIXAR O VOLUME", "USE REGISTRO IGUAL OU DIFERENTE DO USADO ANTES DA DESTA CONEXAO ... NA PROXIMA PALAVRA AFETADA.", ]
+usar_registro_ou_ferramenta: [ "AGUDO", "ou AMENIZAR PRA FINALIZAR", "PESAR NO PEITO GRAVE quando vai ir pra um Super Agudo(em FALSETE)", "ou ABAIXAR O VOLUME", "USE REGISTRO IGUAL OU DIFERENTE DO USADO ANTES DA DESTA CONEXAO ... NA PROXIMA PALAVRA AFETADA.", ]
 
 acordes_custume: [ "De preparacao 1º e 6º grau com ou sem setima", "5º", "3º", ]
 

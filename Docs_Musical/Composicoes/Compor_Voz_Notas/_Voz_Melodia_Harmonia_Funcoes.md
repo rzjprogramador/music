@@ -8,13 +8,18 @@ Aspiracao_e_EmissaoSom : [
 
 "Emissao_Pergunta_e_Resposta : O padrao é termos dentro de cada verso PERGUNTA ( final_Emissao com Corte_Seco ) e RESPOSTA ( final_Emissao com ALONGAMENTO empurre ar para Ceu da Boca atraz dentes Sorrindo, abre opcionais Ornamentos_de_Final )",
 
+"Notas melodia na emidsao: vá diretl na nota nao fique procurando se movimentando pra achar a cada nlta va DIRETO.",
+
 ]
 
-### BOCA CANTAR VOGAIS
-uso: "SEM ABRIR EXAGERADO",
-A E : ABRE LATERAIS
-O : OVAL
-U : BIQUINHO SEMI ABERTO
+### VOGAIS USO_BOCA e SENTIMENTOS
+uso: "Sempre empurre o Ar no ceu Atraz dos dentes, SEM ABRIR EXAGERADO, Usar Sorrizo, Mordente",
+
+vogais : 
+A E : forte Atencao, shape: ABRE VERTICAL CIMA E EMBAIXO
+O : Tensa Problema PuxaVida, shape: SOM DE Ó ABRE VERTICAL
+U : Sentimental,shape: BIQUINHO QUASE FECHADO
+I : Confiante,shape: LATERAIS SORRISO
 
 
 ### Esteticas_Ornamentos : 

@@ -21,6 +21,30 @@ O : Tensa Problema PuxaVida, shape: SOM DE Ó ABRE VERTICAL
 U : Sentimental,shape: BIQUINHO QUASE FECHADO
 I : Confiante,shape: LATERAIS SORRISO
 
+---
+
+### Registros_Acessos
+
+acessos :
+- mista : [ Ha...Entendi, Anjmado, Fala Celular, Briga Festa, ]
+- wisper : [ Sincerao, ]
+- neutro : [ gentil, ]
+- dePeito : [ voz de fala peito vibra, ]
+- falseteAR : [ Hu RÚUUL, Voz do Mickey, todos com escapa Ar, ]
+- deCabeca : [ falseteLimpo sem quase escapar Ar tantao grave quanto agudo,  ]
+
+Registros :
+todos: [ Mista, ]
+
+inicios : [ Wisper Sussuru Calmo,DePeito Voz de Fala Firme, Neutro, ]
+
+meio: [ Mista, ]
+
+refrao : [ DeCabeca, ]
+
+agudos : [ DeCabeca, ]
+
+---
 
 ### Esteticas_Ornamentos : 
 

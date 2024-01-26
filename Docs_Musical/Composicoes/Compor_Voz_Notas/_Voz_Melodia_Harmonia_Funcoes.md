@@ -1,7 +1,13 @@
 # VOZ MELODIA HARMONIA FUNCOES
 
-Aspiracao: [
-"aspire susto charmoso rapido e pouco e apoie, ideal aspirar antes da parteResposta no verso, para o outro verso ja vim no mesmo ar de embalo. E nas pausas tambem.",
+Aspiracao_e_EmissaoSom : [
+
+"locais: aspirar antes da parteResposta no verso e no meio do 1 toque antes da entrada forte do metronomo cabeca da voz. Assim no verso tesposta temos ar para ornamentos finais",
+
+"aspire pouco pelo nariz e boca sensacao de leve bocejo jogando pra traz na garganta engolindo. Apoio: Sempre que Cantar EMITIR SOM Encolha a Barriga, Parou solte a barriga pro ar entrar. se faltar ar reserva TRANQUE O BUMBUM!",
+
+"Emissao_Pergunta_e_Resposta : O padrao é termos dentro de cada verso PERGUNTA ( final_Emissao com Corte_Seco ) e RESPOSTA ( final_Emissao com ALONGAMENTO e opcionais Ornamentos_de_Final )",
+
 ]
 
 # titulo: VARIAÇÕES DE REGISTROS

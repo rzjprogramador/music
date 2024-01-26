@@ -6,11 +6,31 @@ Aspiracao_e_EmissaoSom : [
 
 "aspire pouco pelo nariz e boca sensacao de leve bocejo jogando pra traz na garganta engolindo. Apoio: Sempre que Cantar EMITIR SOM Encolha a Barriga, Parou solte a barriga pro ar entrar. se faltar ar reserva TRANQUE O BUMBUM!",
 
-"Emissao_Pergunta_e_Resposta : O padrao é termos dentro de cada verso PERGUNTA ( final_Emissao com Corte_Seco ) e RESPOSTA ( final_Emissao com ALONGAMENTO e opcionais Ornamentos_de_Final )",
+"Emissao_Pergunta_e_Resposta : O padrao é termos dentro de cada verso PERGUNTA ( final_Emissao com Corte_Seco ) e RESPOSTA ( final_Emissao com ALONGAMENTO empurre ar para Ceu da Boca atraz dentes Sorrindo, abre opcionais Ornamentos_de_Final )",
 
 ]
 
-# titulo: VARIAÇÕES DE REGISTROS
+### BOCA CANTAR VOGAIS
+uso: "SEM ABRIR EXAGERADO",
+A E : ABRE LATERAIS
+O : OVAL
+U : BIQUINHO SEMI ABERTO
+
+
+### Esteticas_Ornamentos : 
+
+de_transicao : 
+- do_Agudo_pro_Grave : [ Yodel ]
+- do_Grave_pro_Agudo : [ Dry ]
+- para_troca_registro : []
+
+finais :
+- para_Qualquer_Final: [ apogiatura, Mprdente ]
+- para_Final_Pergunta: [ ]
+- para_Final_Resposta: [ ]
+
+
+### titulo: VARIAÇÕES DE REGISTROS
 caracteristica: "GRAVE", acessos: [ "MÔ", ], sub_registros: [ "sussurro", "Sincero", "falsete_grave", "De Peito/Voz da Fala", "duro", ], vogais: "vogai_fracas: U I Â", funcoes_harmonicas: [ "Calmaria", "Gentil", ], acordes_costume: [ "1º Tonica e 6º grau Tonica_Relativa", ], aspirar_antes: "SIM",
 
 caracteristica: "AGUDO", acessos: [ "RU..HÚLLL", ], sub_registros: [ "falsete firme( Quase sem soltar Ar ) psra SuperAgudo", "falsete fraco( Soltando Ar )para SuperAgudo", "", ], vogais: "vogais_fortes: A E Ó I", funcoes_harmonicas: [ "Tensao", "Coros", "Explosao", "Alturas", Conexao", "Preparacao" ], acordes_costume: [ "", ], aspirar_antes: "SIM #importante sempre aspire antes da Tensao ou Preparação.",
@@ -19,7 +39,7 @@ caracteristica: "MEDIO", acessos: [ "NENÉM", "ANIMADO", "CHORO BÊBÊ" ], sub_r
 
 ---
 
-# titulo: ANDAR DE AMBIENTE TONAL
+### titulo: ANDAR DE AMBIENTE TONAL
 conceito: Sensacão do Vento do ar do ambiente, podemos senti-lo com um HUMMMM! Localizamos o tom que normalmente é dividido entre as partes da musica ex: parte A, B Refrao cada parte tem seu andar de ambiente tonal e vem numa crescente do baixo para o mediano para o alto, como esta no ar da sensação de cabeça.
 
 andar: "1", sensacao: "Calmaria, Gentil", altura: "baixo", oitava: "1ª" parte: "A", registro_Usual: "GRAVE_CABEÇA",
@@ -30,7 +50,7 @@ andar: "2", sensacao: "Suspense, Animado", altura: "meio crescente do baixo para
 
 ---
 
-# conexao_virgula
+### conexao_virgula
 conceito: "É o que liga a pergunta a resposta dentro de uma frase",
 
 localizacao: "Se encontra depois ou sensacão de virgula, ou continuacao ou preparação de resposta."
@@ -43,35 +63,7 @@ acordes_custume: [ "De preparacao 1º e 6º grau com ou sem setima", "5º", "3º
 
 
 ---
-## BOCA CANTAR VOGAIS
-uso: "SEM ABRIR EXAGERADO",
-A E : ABRE LATERAIS
-O : OVAL
-U : BIQUINHO SEMI ABERTO
 
----
-
-# Resumo_Pensar_Cantar : [
-
-- 1 - Postura e Aspirar, Frente Umbigo, aspira nariz na primeira.
--
-- 2 - Ataque Emissao pensar emissao sair vibrsr pelo Cucuruco de traz do cranio,  consistir Pesando na direcao da Maçã do Rosto,
--
-- 3 - Dicao boca vertical
--
-- 4- nuances : grave para agudo , registro Mix Pesar o nazal NHEI NHEI NHÉ, sensacao Sorrir internamente lá dentro da boca #14
--
-- 5 - Direcao_Voz : Deixe vibrar na cabeca.
--
-- 6 - Onde jogar o final do som, Palato Duro (Frente, Mix: ex: Aline Barros), Meio () ou Mole (Atraz, Escura, ex: ), aula #16.
--
-- 7 - Gangorra Mix ( alternar <Grave altura nariz> e  Agudo.
--
--
-
-]
-
----
 
 # Enfeites :
 

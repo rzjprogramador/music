@@ -25,7 +25,7 @@ de_transicao :
 - para_troca_registro : []
 
 finais :
-- para_Qualquer_Final: [ apogiatura, Mprdente ]
+- para_Qualquer_Final: [ apogiatura, Mordente ]
 - para_Final_Pergunta: [ ]
 - para_Final_Resposta: [ ]
 

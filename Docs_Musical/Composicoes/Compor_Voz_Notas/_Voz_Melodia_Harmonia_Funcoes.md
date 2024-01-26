@@ -58,6 +58,12 @@ finais :
 - para_Final_Pergunta: [ ]
 - para_Final_Resposta: [ ]
 
+### Perder_Manias [
+"Em prolongamentos ja vir direto da nota e deixa vibrar ou estetica, E NÃO fazer ÔOU, AÁ, IÍ",
+"",
+
+]
+
 
 ### titulo: VARIAÇÕES DE REGISTROS
 caracteristica: "GRAVE", acessos: [ "MÔ", ], sub_registros: [ "sussurro", "Sincero", "falsete_grave", "De Peito/Voz da Fala", "duro", ], vogais: "vogai_fracas: U I Â", funcoes_harmonicas: [ "Calmaria", "Gentil", ], acordes_costume: [ "1º Tonica e 6º grau Tonica_Relativa", ], aspirar_antes: "SIM",

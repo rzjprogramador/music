@@ -5,7 +5,7 @@
 # VOZ PADRAO RZJ 2024
 
 ## PadraoGlobal_Partes
-- preComeco: contar 1..2 123 EH_Aspira > ataca_PESO e segue Glissando, PerguntaSeco RespostaEnfeite
+- preComeco: contar 1..2 123 EH_é o Aspira > ataca_PESO FIRME e segue Glissando, PerguntaSeco RespostaEnfeite
 - atmosfera : Ar de MMM
 - modo: NEUTRO
 - interpretacao : [ Gentil, Aveludado ]
@@ -13,19 +13,19 @@
 
 ## Parte A
 - volume : Baixo
-- ataque_Pesar_no : Grave
+- ataque_Pesar_Firme_no : Grave
 - vibracao : DeCabeca
 - cobertura : Coberturas_Grave
 
 ## Parte B
 - volume : meio
-- ataque_Pesar_no : MEDIO
+- ataque_Pesar_Firme_no : MEDIO
 - vibracao : DeCabeca
 - cobertura : Coberturas_Media
 
 ## Parte REFRAO
 - volume : alto
-- ataque_Pesar_no : ALTO
+- ataque_Pesar_Firme_no : ALTO
 - vibracao : DeCabeca
 - cobertura : Coberturas_Alta
 

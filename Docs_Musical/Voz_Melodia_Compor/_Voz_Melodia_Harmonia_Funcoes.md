@@ -23,7 +23,7 @@
 - cobertura : Cobertura_Media
 
 ## Parte REFRAO
-- volume : altp
+- volume : alto
 - ataque_Pesar_no : ALTO
 - vibracao : DeCabeca
 - cobertura : Cobertura_Alta

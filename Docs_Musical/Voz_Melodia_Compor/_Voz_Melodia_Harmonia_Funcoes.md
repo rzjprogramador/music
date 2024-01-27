@@ -14,19 +14,53 @@
 - volume : Baixo
 - ataque_Pesar_no : Grave
 - vibracao : DeCabeca
-- cobertura : Cobertura_Grave
+- cobertura : Coberturas_Grave
 
 ## Parte B
 - volume : meio
 - ataque_Pesar_no : MEDIO
 - vibracao : DeCabeca
-- cobertura : Cobertura_Media
+- cobertura : Coberturas_Media
 
 ## Parte REFRAO
 - volume : alto
 - ataque_Pesar_no : ALTO
 - vibracao : DeCabeca
-- cobertura : Cobertura_Alta
+- cobertura : Coberturas_Alta
+
+---
+
+
+# Coberturas_Acessos
+
+## Cobertura_Grave
+- Peito : acesso: [ Voz de Fala ], papel: [ Duro ]
+- SussurroWisper : acesso: [ Sincerao ], papel: [ Calmo ]
+
+
+## Coberturas_Medio
+- Mix : acesso: [ Surpresa, Ah tá, É mesmo, Chamar Animado ], papel: [ Crescente, Atitude, Suspense,Surpreendente ]
+
+
+## Coberturas_Altas
+
+
+
+- mista : [ Ha...Entendi, Animado, Fala Celular, Briga Festa, ]
+
+- falseteAR : [ Hu RÚUUL, Voz do Mickey, todos com escapa Ar, ]
+- deCabeca : [ falseteLimpo sem quase escapar Ar tantao grave quanto agudo,  ]
+
+Registros :
+todos: [ Mista, ]
+
+inicios : [ Wisper Sussuru Calmo,DePeito Voz de Fala Firme, Neutro, ]
+
+meio: [ Mista, ]
+
+refrao : [ DeCabeca, ]
+
+agudos : [ DeCabeca, ]
 
 ---
 
@@ -60,28 +94,7 @@ I : Confiante,shape: LATERAIS SORRISO
 
 ---
 
-### Registros_Acessos
 
-acessos :
-- mista : [ Ha...Entendi, Anjmado, Fala Celular, Briga Festa, ]
-- wisper : [ Sincerao, ]
-- neutro : [ gentil, ]
-- dePeito : [ voz de fala peito vibra, ]
-- falseteAR : [ Hu RÚUUL, Voz do Mickey, todos com escapa Ar, ]
-- deCabeca : [ falseteLimpo sem quase escapar Ar tantao grave quanto agudo,  ]
-
-Registros :
-todos: [ Mista, ]
-
-inicios : [ Wisper Sussuru Calmo,DePeito Voz de Fala Firme, Neutro, ]
-
-meio: [ Mista, ]
-
-refrao : [ DeCabeca, ]
-
-agudos : [ DeCabeca, ]
-
----
 
 ### Esteticas_Ornamentos : 
 

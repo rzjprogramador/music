@@ -77,11 +77,23 @@ I : Confiante,shape: LATERAIS SORRISO, explorar: []
 - pesar_agudo: [ ]
 
 > finais :
-- para_Qualquer_Final: pesar_grave_agudo: [ Glissando, Apogiatura, Mordente ]
+- para_Qualquer_Final: pesar_grave_agudo: [ Glissando, Apogiatura, Mordente, Vibrato ]
 
 - para_Final_PerguntaSeco: pesar_grave: [], pesar_agudo: []
 
 - para_Final_RespostaEnfeite: pesar_grave:[ ON AN IN ON UN, Melisma], pesar_agudo: [ Melisma, ]
+
+---
+
+## acessos_ornamentos:
+
+- transicao_grave_agido: baixe bllume e troque.
+
+- vibrato: [ Desliza e faz Tremulo de fantasma, ]
+
+- yodel: [ "Pesar bem forte no Grave e trocar rapido pro falsete, da imptessao de acrescentrar a melodia 1 semiton na nota", 
+]
+ 
 
 ---
 
@@ -158,16 +170,9 @@ para_vogais : [
 "",
 ]
 
- para_comecos : []
-
-para_meios_trocaRegistros : [
-"Yodel , execução: Pesar bem forte no Grave e trocar rapido pro falsete, da imptessao de acrescentrar a melodia 1 semiton na nota.",
-
-"Baixar Volume para transicao ",
-]
-
-para_finais : []
 
 ---
+
+
 
 

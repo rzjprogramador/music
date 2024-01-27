@@ -5,6 +5,7 @@
 # VOZ PADRAO RZJ 2024
 
 ## PadraoGlobal_Partes
+- preComeco: contar 1..2 123 EH_Aspira > ataca_PESO e segue Glissando, PerguntaSeco RespostaEnfeite
 - atmosfera : Ar de MMM
 - modo: NEUTRO
 - interpretacao : [ Gentil, Aveludado ]

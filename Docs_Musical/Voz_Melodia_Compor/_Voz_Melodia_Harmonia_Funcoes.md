@@ -73,11 +73,11 @@ I : Confiante,shape: LATERAIS SORRISO, explorar: []
 - para_troca_registro : []
 
 > finais :
-- para_Qualquer_Final: pesar_grave: [ apogiatura, Mordente ], pesar_agudo: []
+- para_Qualquer_Final: pesar_grave_agudo: [ Glissando, Apogiatura, Mordente ]
 
-- para_Final_Pergunta: pesar_grave: [], pesar_agudo: []
+- para_Final_PerguntaSeco: pesar_grave: [], pesar_agudo: []
 
-- para_Final_Resposta: pesar_grave:[ ON AN IN ON UN, ], pesar_agudo: []
+- para_Final_RespostaEnfeite: pesar_grave:[ ON AN IN ON UN, Melisma], pesar_agudo: [ Melisma, ]
 
 ---
 

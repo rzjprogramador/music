@@ -7,7 +7,7 @@
 ### padraoGlobal_Partes
 - atmosfera : Ar de MMM
 - modo: NEUTRO
-- interpretacao : [ Suave, Gentil, Calmo ]
+- interpretacao : [ DeCabeca, Gentil ]
 - ataque_Voz : Glissando desliza direto de notaVogal a notaVogal
 
 

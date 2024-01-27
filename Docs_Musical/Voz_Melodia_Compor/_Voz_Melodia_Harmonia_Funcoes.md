@@ -1,5 +1,19 @@
 # VOZ MELODIA HARMONIA FUNCOES
 
+---
+
+# VOZ PADRAO RZJ 2024
+
+### padraoGlobal_Partes
+- atmosfera : Ar de MMM
+- modo: NEUTRO
+- interpretacao : [ Suave, Gentil, Calmo ]
+- ataque_Voz : Glissando desliza direto de notaVogal a notaVogal
+
+
+
+---
+
 Aspiracao_e_EmissaoSom : [
 
 "locais: aspirar antes da parteResposta no verso e no meio do 1 toque antes da entrada forte do metronomo cabeca da voz. Assim no verso tesposta temos ar para ornamentos finais",

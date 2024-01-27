@@ -74,7 +74,7 @@ I : Confiante,shape: LATERAIS SORRISO, explorar: []
 > finais :
 - para_Qualquer_Final: [ apogiatura, Mordente ]
 - para_Final_Pergunta: [ ]
-- para_Final_Resposta: [ ON, ]
+- para_Final_Resposta: [ ON AN IN ON UN, ]
 
 ## Perder_Manias [
 "Em prolongamentos ja vir direto da nota e deixa vibrar ou estetica, E NÃO fazer ÔOU, AÁ, IÍ",

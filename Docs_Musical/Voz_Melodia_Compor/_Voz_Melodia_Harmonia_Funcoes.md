@@ -72,6 +72,10 @@ I : Confiante,shape: LATERAIS SORRISO, explorar: []
 - do_Grave_pro_Agudo : [ Dry ]
 - para_troca_registro : []
 
+> de_inicios :
+- pesar_grave: [ Fry_Zumbi, ]
+- pesar_agudo: [ ]
+
 > finais :
 - para_Qualquer_Final: pesar_grave_agudo: [ Glissando, Apogiatura, Mordente ]
 

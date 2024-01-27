@@ -39,28 +39,12 @@
 
 
 ## Coberturas_Medio
-- Mix : acesso: [ Surpresa, Ah tá, É mesmo, Chamar Animado ], papel: [ Crescente, Atitude, Suspense,Surpreendente ]
+- Mista : acesso: [ Surpresa, Ah tá, É mesmo, Chamar Animado ], papel: [ Crescente, Atitude, Suspense, Energico, Surpreendente ]
 
 
 ## Coberturas_Altas
+- Mistura_de_Todas_Coberturas_em_FalseteLimpo : acesso: [ HuRRúll, VozMickey, ], papel: [ Coro Coral, ]
 
-
-
-- mista : [ Ha...Entendi, Animado, Fala Celular, Briga Festa, ]
-
-- falseteAR : [ Hu RÚUUL, Voz do Mickey, todos com escapa Ar, ]
-- deCabeca : [ falseteLimpo sem quase escapar Ar tantao grave quanto agudo,  ]
-
-Registros :
-todos: [ Mista, ]
-
-inicios : [ Wisper Sussuru Calmo,DePeito Voz de Fala Firme, Neutro, ]
-
-meio: [ Mista, ]
-
-refrao : [ DeCabeca, ]
-
-agudos : [ DeCabeca, ]
 
 ---
 

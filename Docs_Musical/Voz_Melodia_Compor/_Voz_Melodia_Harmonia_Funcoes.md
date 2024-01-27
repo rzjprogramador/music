@@ -8,7 +8,10 @@ Aspiracao_e_EmissaoSom : [
 
 "Emissao_Pergunta_e_Resposta : O padrao é termos dentro de cada verso PERGUNTA ( final_Emissao com Corte_Seco ) e RESPOSTA ( final_Emissao com ALONGAMENTO empurre ar para Ceu da Boca atraz dentes Sorrindo, abre opcionais Ornamentos_de_Final )",
 
-"Notas melodia na emidsao: vá diretl na nota nao fique procurando se movimentando pra achar a cada nlta va DIRETO.",
+"Notas melodia na emissao: 
+missao: "é ir direto na nota nao fique procurando se movimentando pra achar a cada nlta va DIRETO.",
+
+tecnica_conducao_emissao: [ glissando ir escorrendo até a proxima nota alvo, ]
 
 ]
 

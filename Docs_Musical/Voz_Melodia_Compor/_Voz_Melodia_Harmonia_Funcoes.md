@@ -48,6 +48,44 @@
 
 ---
 
+### VOGAIS USO_BOCA e SENTIMENTOS
+uso: "Sempre empurre o Ar no ceu Atraz dos dentes, SEM ABRIR EXAGERADO, Usar Sorrizo, Mordente",
+
+vogais : 
+A E : forte Atencao, shape: ABRE VERTICAL CIMA E EMBAIXO, explorar: [ Dar Agudo, brilho, Enfase ]
+
+O : Tensa Problema PuxaVida, shape: SOM DE Ó ABRE VERTICAL, explorar: [ ]
+
+U : Sentimental,shape: BIQUINHO QUASE FECHADO, explorar: [ ]
+
+I : Confiante,shape: LATERAIS SORRISO, explorar: []
+
+---
+
+
+
+### Esteticas_Ornamentos : 
+
+> de_transicao : 
+- do_Agudo_pro_Grave : [ Yodel ]
+- do_Grave_pro_Agudo : [ Dry ]
+- para_troca_registro : []
+
+> finais :
+- para_Qualquer_Final: [ apogiatura, Mordente ]
+- para_Final_Pergunta: [ ]
+- para_Final_Resposta: [ ON, ]
+
+## Perder_Manias [
+"Em prolongamentos ja vir direto da nota e deixa vibrar ou estetica, E NÃO fazer ÔOU, AÁ, IÍ",
+"",
+
+]
+
+
+
+---
+
 ## Aspiracao_e_EmissaoSom : [
 
 "locais: aspirar antes da parteResposta no verso e no meio do 1 toque antes da entrada forte do metronomo cabeca da voz. Assim no verso tesposta temos ar para ornamentos finais",
@@ -64,37 +102,6 @@
 missao: "é ir direto na nota nao fique procurando se movimentando pra achar a cada nlta va DIRETO.",
 
 tecnica_conducao_emissao: [ glissando ir escorrendo até a proxima nota alvo, ]
-
-]
-
-### VOGAIS USO_BOCA e SENTIMENTOS
-uso: "Sempre empurre o Ar no ceu Atraz dos dentes, SEM ABRIR EXAGERADO, Usar Sorrizo, Mordente",
-
-vogais : 
-A E : forte Atencao, shape: ABRE VERTICAL CIMA E EMBAIXO
-O : Tensa Problema PuxaVida, shape: SOM DE Ó ABRE VERTICAL
-U : Sentimental,shape: BIQUINHO QUASE FECHADO
-I : Confiante,shape: LATERAIS SORRISO
-
----
-
-
-
-### Esteticas_Ornamentos : 
-
-de_transicao : 
-- do_Agudo_pro_Grave : [ Yodel ]
-- do_Grave_pro_Agudo : [ Dry ]
-- para_troca_registro : []
-
-finais :
-- para_Qualquer_Final: [ apogiatura, Mordente ]
-- para_Final_Pergunta: [ ]
-- para_Final_Resposta: [ ]
-
-### Perder_Manias [
-"Em prolongamentos ja vir direto da nota e deixa vibrar ou estetica, E NÃO fazer ÔOU, AÁ, IÍ",
-"",
 
 ]
 

@@ -112,11 +112,13 @@ I : Confiante,shape: LATERAIS SORRISO, explorar: []
 
 "locais: aspirar antes da parteResposta no verso e no meio do 1 toque antes da entrada forte do metronomo cabeca da voz. Assim no verso tesposta temos ar para ornamentos finais",
 
-"aspire pouco pelo nariz e boca sensacao de leve bocejo jogando pra traz na garganta engolindo. Apoio: Sempre que Cantar EMITIR SOM Encolha a Barriga, Parou solte a barriga pro ar entrar. se faltar ar reserva TRANQUE O BUMBUM!",
+"Importante nao levantar os ombros, deixe trabalhar somente a parte debaixo onde fica a barriga assim como faz quando esta durmindo.",
+
+"aspire POUCO AR de Preferenvia pelo NARIZ e ppuquinho pela boca sensacao de leve bocejo jogando pra traz na garganta engolindo. Apoio: Sempre que Cantar EMITIR SOM empurre UMBIGO PRA DENTRO e AR_EM_SOM pra fora, Parou solte a barriga pro ar entrar. se faltar ar reserva TRANQUE O BUMBUM!",
 ]
 
 ### emissao : [
-"#osegredo é [ HIGIENE COM DRY E AGUA, AQUECER,ASPIRAR APOIAR E EMITIR SEMPRE  APOIANDO, EMITIR SEMPRE EM GLISSANDO DO GRAVE PRO AGUDO E VICE VERSA, ASPIRAR POUCO E RECOMECAR ] e cada frase usar o sistema de ) Pergunta e Resposta ) onde a pergunta tem ginsl de corte seco e a resposta final com estetica ou liso.#ouro",
+"#osegredo é [ HIGIENE COM DRY E AGUA, AQUECER,ASPIRAR APOIAR E EMITIR SEMPRE FIRME APOIANDO COM UMBIGO PRA DENTRO, EMITIR SEMPRE EM GLISSANDO DO GRAVE PRO AGUDO E VICE VERSA, ASPIRAR POUCO E RECOMECAR ] e cada frase usar o sistema de ) Pergunta e Resposta ) onde a pergunta tem ginsl de corte seco e a resposta final com estetica ou liso.#ouro",
 
 "Emissao_Pergunta_e_Resposta : O padrao é termos dentro de cada verso PERGUNTA ( final_Emissao com Corte_Seco ) e RESPOSTA ( final_Emissao com ALONGAMENTO empurre ar para Ceu da Boca atraz dentes Sorrindo, abre opcionais Ornamentos_de_Final )",
 

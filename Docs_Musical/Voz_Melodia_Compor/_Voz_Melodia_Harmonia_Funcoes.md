@@ -8,7 +8,7 @@ Aspiracao_e_EmissaoSom : [
 ]
 
 ### emissao : [
-"#osegredo é assoprar voz de forma contida glissando,ok assoprar voz ao inves de ar e recuperar o ar aspirando pra continuar e num sistema de pergunta e resposta nas frases onde a psrginta tem ginsl de corte seco e a resposta final vom estetica ou liso.#ouro",
+"#osegredo é [ HIGIENE COM DRY E AGUA, AQUECER,ASPIRAR APOIAR E EMITIR SEMPRE  APOIANDO, EMITIR SEMPRE EM GLISSANDO DO GRAVE PRO AGUDO E VICE VERSA, ASPIRAR POUCO E RECOMECAR ] e cada frase usar o sistema de ) Pergunta e Resposta ) onde a pergunta tem ginsl de corte seco e a resposta final com estetica ou liso.#ouro",
 
 "Emissao_Pergunta_e_Resposta : O padrao é termos dentro de cada verso PERGUNTA ( final_Emissao com Corte_Seco ) e RESPOSTA ( final_Emissao com ALONGAMENTO empurre ar para Ceu da Boca atraz dentes Sorrindo, abre opcionais Ornamentos_de_Final )",
 

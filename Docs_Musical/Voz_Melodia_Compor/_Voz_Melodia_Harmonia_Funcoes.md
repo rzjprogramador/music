@@ -4,17 +4,33 @@
 
 # VOZ PADRAO RZJ 2024
 
-### padraoGlobal_Partes
+## PadraoGlobal_Partes
 - atmosfera : Ar de MMM
 - modo: NEUTRO
-- interpretacao : [ DeCabeca, Gentil ]
+- interpretacao : [ Gentil, Aveludado ]
 - ataque_Voz : Glissando desliza direto de notaVogal a notaVogal
 
+## Parte A
+- volume : Baixo
+- ataque_Pesar_no : Grave
+- vibracao : DeCabeca
+- cobertura : Cobertura_Grave
 
+## Parte B
+- volume : meio
+- ataque_Pesar_no : MEDIO
+- vibracao : DeCabeca
+- cobertura : Cobertura_Media
+
+## Parte REFRAO
+- volume : altp
+- ataque_Pesar_no : ALTO
+- vibracao : DeCabeca
+- cobertura : Cobertura_Alta
 
 ---
 
-Aspiracao_e_EmissaoSom : [
+## Aspiracao_e_EmissaoSom : [
 
 "locais: aspirar antes da parteResposta no verso e no meio do 1 toque antes da entrada forte do metronomo cabeca da voz. Assim no verso tesposta temos ar para ornamentos finais",
 

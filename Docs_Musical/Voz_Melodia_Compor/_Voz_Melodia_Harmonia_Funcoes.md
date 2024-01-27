@@ -91,8 +91,9 @@ I : Confiante,shape: LATERAIS SORRISO, explorar: []
 
 - vibrato: [ Desliza e faz Tremulo de fantasma, ]
 
-- yodel: [ "Pesar bem forte no Grave e trocar rapido pro falsete, da imptessao de acrescentrar a melodia 1 semiton na nota", 
-]
+- yodel: [ "Pesar bem forte no Grave e trocar rapido pro falsete, da imptessao de acrescentrar a melodia 1 semiton na nota",
+
+- apogiatura: ["duplicar a vogal jogando a primeira pro agudo e a segunda no grave, ex: Á...RA..Á ", ]
  
 
 ---
@@ -160,15 +161,6 @@ acordes_custume: [ "De preparacao 1º e 6º grau com ou sem setima", "5º", "3º
 
 
 ---
-
-
-# Enfeites :
-
-para_vogais : [
-"Apogiatura, execucao : vai duplicar a vogal jogando a primeira pro agudo e a segunda no  ",
-
-"",
-]
 
 
 ---

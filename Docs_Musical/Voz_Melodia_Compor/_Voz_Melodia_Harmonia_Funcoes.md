@@ -31,6 +31,13 @@
 
 ---
 
+Importante_Voz [
+- timbrar: A voz tem que variar sua projecao nos lugares OCOS [ Peito, MacaRosto_Mascara, Cabeca ]
+
+- brilhoFinal: Tem que mudar o shape dos finais para fechsr bem.
+
+]
+
 
 # Coberturas_Acessos
 

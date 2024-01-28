@@ -47,7 +47,7 @@ Importante_Voz [
 
 
 ## Coberturas_Medio
-- Mista : acesso: [ Surpresa, Ah tá, É mesmo, Chamar Animado ], papel: [ Crescente, Atitude, Suspense, Energico, Surpreendente ]
+- Mista : acesso: [ Surpresa,NHÁU GATO,  Ah tá, É mesmo, Chamar Animado ], papel: [ Crescente, Atitude, Suspense, Energico, Surpreendente ]
 
 
 ## Coberturas_Altas
